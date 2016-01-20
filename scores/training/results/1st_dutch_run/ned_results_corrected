@@ -1,0 +1,39 @@
+python score_ned.py clin_corrected 1st_dutch_run 
+Mon Jan 18 12:40:16 PST 2016
+Passed all tests.
+
+
+Performance (partial spans):
+
+# response total: 172
+# missed: 207
+# invented: 14
+
+Micro average:
+precision	0.919
+recall	0.433
+f1	0.588
+
+Macro average:
+precision	0.938
+recall	0.450
+f1	0.588
+
+
+
+Performance (exact spans):
+
+# response total: 172
+# missed: 208
+# invented: 15
+
+Micro average:
+precision	0.913
+recall	0.430
+f1	0.585
+
+Macro average:
+precision	0.935
+recall	0.448
+f1	0.585
+

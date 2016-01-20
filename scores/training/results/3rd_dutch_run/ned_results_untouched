@@ -1,0 +1,38 @@
+python score_ned.py clin_untouched 3rd_dutch_runTue Jan 19 01:05:15 PST 2016
+Passed all tests.
+
+
+Performance (partial spans):
+
+# response total: 300
+# missed: 104
+# invented: 147
+
+Micro average:
+precision	0.510
+recall	0.595
+f1	0.549
+
+Macro average:
+precision	0.527
+recall	0.627
+f1	0.549
+
+
+
+Performance (exact spans):
+
+# response total: 300
+# missed: 137
+# invented: 180
+
+Micro average:
+precision	0.400
+recall	0.467
+f1	0.431
+
+Macro average:
+precision	0.421
+recall	0.510
+f1	0.442
+

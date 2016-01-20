@@ -1,0 +1,116 @@
+python score_nerc.py clin_untouched 1st_dutch_run
+Mon Jan 18 12:34:30 PST 2016
+WARN: Missing element in file , sentence 1, token 3.
+Passed all tests.
+WARN: Missing element in file clin_untouched/37961_Apple_releases_program.xml.ne, sentence 1, token 36.
+WARN: Missing element in file clin_untouched/78899_Apple_announces_new_iPod_range.xml.ne, sentence 1, token 30.
+WARN: Missing element in file clin_untouched/78899_Apple_announces_new_iPod_range.xml.ne, sentence 1, token 31.
+WARN: Missing element in file clin_untouched/78899_Apple_announces_new_iPod_range.xml.ne, sentence 1, token 32.
+
+
+Performance for entity type PER:
+
+# response total: 22
+# missed: 20
+# invented: 10
+
+Micro average:
+precision	0.545
+recall	0.375
+f1	0.444
+
+Macro average:
+precision	0.278
+recall	0.233
+f1	0.249
+
+
+
+Performance for entity type LOC:
+
+# response total: 13
+# missed: 22
+# invented: 8
+
+Micro average:
+precision	0.385
+recall	0.185
+f1	0.250
+
+Macro average:
+precision	0.144
+recall	0.128
+f1	0.133
+
+
+
+Performance for entity type PRO:
+
+# response total: 0
+# missed: 127
+# invented: 0
+
+Micro average:
+precision	0.000
+recall	0.000
+f1	0.000
+
+Macro average:
+precision	0.000
+recall	0.000
+f1	0.000
+
+
+
+Performance for entity type ORG:
+
+# response total: 141
+# missed: 20
+# invented: 37
+
+Micro average:
+precision	0.738
+recall	0.839
+f1	0.785
+
+Macro average:
+precision	0.787
+recall	0.912
+f1	0.835
+
+
+
+Performance for entity type FIN:
+
+# response total: 0
+# missed: 0
+# invented: 0
+
+Micro average:
+precision	0.000
+recall	0.000
+f1	0.000
+
+Macro average:
+precision	0.000
+recall	0.000
+f1	0.000
+
+
+
+Overall performance:
+
+# response total: 176
+# missed: 189
+# invented: 55
+
+Micro average:
+precision	0.688
+recall	0.390
+f1	0.498
+
+Macro average:
+precision	0.740
+recall	0.414
+f1	0.512
+

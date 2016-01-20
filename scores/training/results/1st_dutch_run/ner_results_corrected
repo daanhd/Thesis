@@ -1,0 +1,112 @@
+python score_nerc.py clin_corrected 1st_dutch_run
+Mon Jan 18 12:39:13 PST 2016
+WARN: Missing element in file , sentence 1, token 3.
+Passed all tests.
+
+
+Performance for entity type PER:
+
+# response total: 22
+# missed: 16
+# invented: 2
+
+Micro average:
+precision	0.909
+recall	0.556
+f1	0.690
+
+Macro average:
+precision	0.467
+recall	0.348
+f1	0.389
+
+
+
+Performance for entity type LOC:
+
+# response total: 13
+# missed: 21
+# invented: 5
+
+Micro average:
+precision	0.615
+recall	0.276
+f1	0.381
+
+Macro average:
+precision	0.211
+recall	0.172
+f1	0.184
+
+
+
+Performance for entity type PRO:
+
+# response total: 0
+# missed: 165
+# invented: 0
+
+Micro average:
+precision	0.000
+recall	0.000
+f1	0.000
+
+Macro average:
+precision	0.000
+recall	0.000
+f1	0.000
+
+
+
+Performance for entity type ORG:
+
+# response total: 141
+# missed: 18
+# invented: 13
+
+Micro average:
+precision	0.908
+recall	0.877
+f1	0.892
+
+Macro average:
+precision	0.924
+recall	0.932
+f1	0.921
+
+
+
+Performance for entity type FIN:
+
+# response total: 0
+# missed: 0
+# invented: 0
+
+Micro average:
+precision	0.000
+recall	0.000
+f1	0.000
+
+Macro average:
+precision	0.000
+recall	0.000
+f1	0.000
+
+
+
+Overall performance:
+
+# response total: 176
+# missed: 220
+# invented: 20
+
+Micro average:
+precision	0.886
+recall	0.415
+f1	0.565
+
+Macro average:
+precision	0.916
+recall	0.435
+f1	0.568
+
