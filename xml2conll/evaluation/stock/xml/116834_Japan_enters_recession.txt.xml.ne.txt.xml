@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Recessie slaat toe in Japan ^ 18-Nov-08 ^ Japan , dat verantwoordelijk is voor 7 % van de wereldproductie , gaat na twee opeenvolgende kwartalen van negatieve groei een recessie in . ^ De Japanse economie kromp tussen april en juni 0,9 % en is sinds september nog eens met 0,1 % verslechterd . ^ Kaoru Yosano , de Japanse minister van fiscaal beleid , zei dat ``de neerwaartse trend in de economie blijft voorlopig bestaan nu de internationale groei langzamer wordt . ^ We moeten in gedachten houden dat de economische omstandigheden nog kunnen verslechteren naarmate de financiële crisis in de V. S. en Europa erger wordt , men zich meer zorgen gaat maken over de crisis en beurzen en wisselkoersen sterk fluctueren . ' ' " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Japan" support="20126" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Japan" offset="22" similarityScore="0.9999999997154418" percentageOfSecondRank="2.771446452394765E-10"/>
+<Resource URI="http://nl.dbpedia.org/resource/Japan" support="20126" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Japan" offset="42" similarityScore="0.9999999997154418" percentageOfSecondRank="2.771446452394765E-10"/>
+<Resource URI="http://nl.dbpedia.org/resource/Recessie" support="169" types="" surfaceForm="recessie" offset="169" similarityScore="1.0" percentageOfSecondRank="1.4856117321611927E-17"/>
+<Resource URI="http://nl.dbpedia.org/resource/Kaoru_Yosano" support="2" types="" surfaceForm="Kaoru Yosano" offset="296" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Fiscaal_beleid" support="22" types="" surfaceForm="fiscaal beleid" offset="335" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Europese_Unie" support="4308" types="" surfaceForm="Europa" offset="604" similarityScore="0.9969286683562317" percentageOfSecondRank="0.0030807918430834787"/>
+<Resource URI="http://nl.dbpedia.org/resource/Wisselkoers" support="103" types="" surfaceForm="wisselkoersen" offset="686" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+</Resources>
+</Annotation>

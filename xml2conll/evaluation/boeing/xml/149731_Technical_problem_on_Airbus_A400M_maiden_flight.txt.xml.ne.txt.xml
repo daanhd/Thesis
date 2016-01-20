@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Technisch probleem tijdens eerste vlucht Airbus A400M ^ 25-Jan-10 ^ Airbus heeft bevestigd dat zich een softwareprobleem heeft voorgedaan tijdens de eerste vlucht van het Airbus A400M militaire vliegtuig . ^ Het probleem was relatief klein en betrof de software die de motoren bestuurt . ^ Het probleem werd niet gemeld tijdens de eerste vlucht op 11 december - vier jaar achter op schema en $ 7,3 miljard boven budget , als gevolg van wat de fabrikant ``politieke inmenging ' ' noemt - en werd pas dit weekend bekend toen het Duitse tijdschrift Der Spiegel vertrouwelijke documenten van motorfabrikant Europrop in een rapport citeerde . ^ De stuurcomputer en het back-upsysteem raakten na dertig minuten defect . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Airbus_A400M" support="8" types="Schema:Product,DBpedia:MeanOfTransportation,DBpedia:Aircraft" surfaceForm="A400M" offset="48" similarityScore="0.9999999999998863" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Airbus" support="380" types="" surfaceForm="Airbus" offset="68" similarityScore="0.9999999459334973" percentageOfSecondRank="5.4066480084468174E-8"/>
+<Resource URI="http://nl.dbpedia.org/resource/Airbus_A400M" support="8" types="Schema:Product,DBpedia:MeanOfTransportation,DBpedia:Aircraft" surfaceForm="A400M" offset="178" similarityScore="0.9999999999998863" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Software" support="1576" types="" surfaceForm="software" offset="253" similarityScore="0.9999959837601797" percentageOfSecondRank="4.0162522565731825E-6"/>
+<Resource URI="http://nl.dbpedia.org/resource/11_december" support="821" types="" surfaceForm="11 december" offset="348" similarityScore="0.9999999999985221" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Duitsland" support="58285" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Duitse" offset="527" similarityScore="0.9965550029862507" percentageOfSecondRank="0.003328386291211142"/>
+</Resources>
+</Annotation>

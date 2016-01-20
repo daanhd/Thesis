@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Medeoprichter van Apple Inc. Steve Jobs overlijdt op 56-jarige leeftijd ^ 06-Oct-11 ^ Steve Jobs , de medeoprichter en voormalig chief executive officer van Apple Inc. , overleed gisteren op 56-jarige leeftijd volgens een kennisgeving op de website van het bedrijf . ^ Op 24 augustus trad hij terug als CEO van Apple . ^ Hij vocht al sinds 2004 tegen alvleesklierkanker . ^ Jobs werd op 24 februari 1955 geboren in San Francisco en bouwde een technologiebedrijf op dat met een marktwaarde van $ 348,8 miljard het meest waardevolle bedrijf ter wereld is . ^ Hij richtte Apple in 1976 op en bracht in 1984 de eerste personal computer op de markt . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple Inc." offset="18" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Steve_Jobs" support="107" types="DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person" surfaceForm="Steve Jobs" offset="29" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Steve_Jobs" support="107" types="DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person" surfaceForm="Steve Jobs" offset="86" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Executive" support="1" types="" surfaceForm="executive" offset="135" similarityScore="0.500880687638321" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple Inc." offset="157" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Bestuursvoorzitter" support="671" types="" surfaceForm="CEO" offset="303" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="311" similarityScore="0.9999999996311999" percentageOfSecondRank="3.687771766750066E-10"/>
+<Resource URI="http://nl.dbpedia.org/resource/Alvleesklierkanker" support="107" types="DBpedia:Disease" surfaceForm="alvleesklierkanker" offset="351" similarityScore="0.9999999804783786" percentageOfSecondRank="1.9521561396631747E-8"/>
+<Resource URI="http://nl.dbpedia.org/resource/24_februari" support="931" types="" surfaceForm="24 februari" offset="387" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/San_Francisco" support="2469" types="" surfaceForm="San Francisco" offset="415" similarityScore="0.9999999848600966" percentageOfSecondRank="1.1206033554961824E-8"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="569" similarityScore="0.9999999996311999" percentageOfSecondRank="3.687771766750066E-10"/>
+<Resource URI="http://nl.dbpedia.org/resource/Personal_computer" support="771" types="" surfaceForm="personal computer" offset="614" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+</Resources>
+</Annotation>

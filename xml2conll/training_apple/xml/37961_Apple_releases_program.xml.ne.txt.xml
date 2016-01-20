@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Apple introduceert programma om iPod-volume te begrenzen ^ 05-Apr-06 ^ Apple heeft een applicatie uitgebracht , die het volume van de iPod draagbare muziekspelers beperkt . ^ De software-update , iPod Software 1.1.1 , werkt op de iPod Nano en de Video-versie . ^ Apple bracht het programma uit als reactie op klachten dat het niet de nodige maatregelen had genomen om gehoorverlies bij iPod-gebruikers tegen te gaan . ^ In Californië werd in januari een groepsactie tegen Apple aangespannen over claims dat gebruik van de iPod gehoorverlies had veroorzaakt . ^ \&quot; Greg Joswiak , internationaal vice-president marketing voor de iPod bij Apple , zei dat deze patch beschikbaar is voor mensen die \&quot; \&quot; een gebruiksvriendelijke mogelijkheid wensen om hun eigen , persoonlijke volumegrens in te stellen . \&quot; \&quot; \&quot; " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="0" similarityScore="0.9999999999025704" percentageOfSecondRank="9.732263666618993E-11"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="71" similarityScore="0.9999999999025704" percentageOfSecondRank="9.732263666618993E-11"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPod" support="226" types="" surfaceForm="iPod" offset="134" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPod" support="226" types="" surfaceForm="iPod" offset="196" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPod" support="226" types="" surfaceForm="iPod" offset="230" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="263" similarityScore="0.9999999999025704" percentageOfSecondRank="9.732263666618993E-11"/>
+<Resource URI="http://nl.dbpedia.org/resource/Californië" support="7910" types="" surfaceForm="Californië" offset="423" similarityScore="0.9999987297270646" percentageOfSecondRank="1.2552311467567864E-6"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="472" similarityScore="0.9999999999025704" percentageOfSecondRank="9.732263666618993E-11"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPod" support="226" types="" surfaceForm="iPod" offset="522" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Marketing" support="477" types="" surfaceForm="marketing" offset="609" similarityScore="0.9999999999998863" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPod" support="226" types="" surfaceForm="iPod" offset="627" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="636" similarityScore="0.9999999999025704" percentageOfSecondRank="9.732263666618993E-11"/>
+<Resource URI="http://nl.dbpedia.org/resource/Patch" support="85" types="" surfaceForm="patch" offset="657" similarityScore="0.9999999999994316" percentageOfSecondRank="0.0"/>
+</Resources>
+</Annotation>

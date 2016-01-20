@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Amerikaans autofabrikant GM gaat 1.100 dealers sluiten ^ 15-May-09 ^ Het Amerikaanse autobedrijf General Motors ( GM ) kondigde vrijdag aan dat zo ' n 1.100 dealers zullen worden gesloten in een poging een faillissement te voorkomen en de kosten te drukken . ^ Een dag eerder publiceerde Chrysler , een andere Amerikaanse fabrikant , een lijst van 789 dealers die worden gesloten . ^ In tegenstelling tot Chrysler zal GM de te sluiten dealerschappen niet aankondigen . ^ Dealers wiens franchise na oktober volgend jaar niet wordt verlengd , krijgen een persoonlijke kennisgeving van de beslissing . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Verenigde_Staten" support="94362" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Amerikaans" offset="0" similarityScore="0.9999880602152852" percentageOfSecondRank="1.1906750903715871E-5"/>
+<Resource URI="http://nl.dbpedia.org/resource/Verenigde_Staten" support="94362" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Amerikaanse" offset="73" similarityScore="0.9999331635163409" percentageOfSecondRank="3.967310118929974E-5"/>
+<Resource URI="http://nl.dbpedia.org/resource/General_Motors" support="640" types="" surfaceForm="General Motors" offset="97" similarityScore="1.0" percentageOfSecondRank="1.4136718375269947E-14"/>
+<Resource URI="http://nl.dbpedia.org/resource/Chrysler" support="599" types="" surfaceForm="Chrysler" offset="288" similarityScore="0.9999999997819486" percentageOfSecondRank="2.18096557141062E-10"/>
+<Resource URI="http://nl.dbpedia.org/resource/Verenigde_Staten" support="94362" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Amerikaanse" offset="310" similarityScore="0.9999331635163409" percentageOfSecondRank="3.967310118929974E-5"/>
+<Resource URI="http://nl.dbpedia.org/resource/Chrysler" support="599" types="" surfaceForm="Chrysler" offset="405" similarityScore="0.9999999997819486" percentageOfSecondRank="2.18096557141062E-10"/>
+<Resource URI="http://nl.dbpedia.org/resource/Franchise_(ondernemen)" support="153" types="" surfaceForm="franchise" offset="485" similarityScore="0.9754924217231458" percentageOfSecondRank="0.018235439841792416"/>
+</Resources>
+</Annotation>

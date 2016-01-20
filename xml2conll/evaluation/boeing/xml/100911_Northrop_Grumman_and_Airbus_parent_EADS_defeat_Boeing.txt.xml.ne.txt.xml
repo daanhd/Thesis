@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Northrop Grumman en Airbus-eigenaar EADS verslaan Boeing in contract voor Amerikaans tankvliegtuig van $ 40 miljard 01-Mar-08 Northrop Grumman en European Aeronautic Defence and Space Company EADS N. V. ( EADS ) , het moederbedrijf van Airbus , hebben onverwacht Boeing verslagen in een contract ter waarde van US $ 40 miljard ( GB # 20,1 miljard ) om 179 nieuwe tankvliegtuigen te leveren aan de United States Air Force ( USAF ) , waarbij 15 tankers per jaar zullen worden opgeleverd . Het is het grootste contract in zijn soort sinds het Joint Strike Fighter-programma . Bij dat contract ging het tussen Boeing en Lockheed Martin , waarbij deze laatste uiteindelijk het contract kreeg . Defensieanalist Paul Nesbit van JSA Research zei dat Maintenance , Repair and Overhaul-activiteiten ( MRO ) gedurende de levensduur van vijftig jaar van het toestel de waarde van het contract zelfs tot US $ 100 miljard kunnen opdrijven . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Northrop_Grumman" support="26" types="" surfaceForm="Grumman" offset="9" similarityScore="0.9999999999214424" percentageOfSecondRank="7.860511161052547E-11"/>
+<Resource URI="http://nl.dbpedia.org/resource/Airbus_Group" support="71" types="" surfaceForm="EADS" offset="36" similarityScore="0.9861592761789864" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Boeing" support="825" types="" surfaceForm="Boeing" offset="50" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Verenigde_Staten" support="94362" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Amerikaans" offset="74" similarityScore="0.9999997132462524" percentageOfSecondRank="2.8668651246098226E-7"/>
+<Resource URI="http://nl.dbpedia.org/resource/Tankvliegtuig" support="33" types="" surfaceForm="tankvliegtuig" offset="85" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Northrop_Grumman" support="26" types="" surfaceForm="Grumman" offset="135" similarityScore="0.9999999999214424" percentageOfSecondRank="7.860511161052547E-11"/>
+<Resource URI="http://nl.dbpedia.org/resource/Airbus_Group" support="71" types="" surfaceForm="European Aeronautic Defence and Space Company" offset="146" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Airbus_Group" support="71" types="" surfaceForm="EADS" offset="192" similarityScore="0.9861592761789864" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Airbus_Group" support="71" types="" surfaceForm="EADS" offset="205" similarityScore="0.9861592761789864" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Airbus" support="380" types="" surfaceForm="Airbus" offset="236" similarityScore="1.0" percentageOfSecondRank="3.6993997870042494E-22"/>
+<Resource URI="http://nl.dbpedia.org/resource/Boeing" support="825" types="" surfaceForm="Boeing" offset="263" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Amerikaanse_dollar" support="1612" types="DBpedia:Currency" surfaceForm="US $" offset="311" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Verenigd_Koninkrijk" support="17931" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="GB" offset="329" similarityScore="0.9794407090041316" percentageOfSecondRank="0.01922299345982962"/>
+<Resource URI="http://nl.dbpedia.org/resource/Tankvliegtuig" support="33" types="" surfaceForm="tankvliegtuigen" offset="363" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/United_States_Air_Force" support="610" types="" surfaceForm="United States Air Force" offset="397" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/United_States_Air_Force" support="610" types="" surfaceForm="USAF" offset="423" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Tanker" support="373" types="" surfaceForm="tankers" offset="443" similarityScore="0.9999999999990905" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Joint_Strike_Fighter-programma" support="19" types="" surfaceForm="Joint Strike Fighter-programma" offset="540" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Boeing" support="825" types="" surfaceForm="Boeing" offset="606" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Lockheed_Martin" support="56" types="" surfaceForm="Lockheed Martin" offset="616" similarityScore="0.9999999361351704" percentageOfSecondRank="6.386482601094409E-8"/>
+<Resource URI="http://nl.dbpedia.org/resource/Mro" support="1" types="" surfaceForm="MRO" offset="791" similarityScore="0.500880687638321" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Amerikaanse_dollar" support="1612" types="DBpedia:Currency" surfaceForm="US $" offset="891" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+</Resources>
+</Annotation>

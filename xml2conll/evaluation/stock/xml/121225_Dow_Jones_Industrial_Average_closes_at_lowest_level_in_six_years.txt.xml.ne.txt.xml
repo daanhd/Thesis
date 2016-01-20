@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Dow Jones Industrial Average sluit op laagste punt in zes jaar ^ 20-Feb-09 ^ Op donderdag sloot de Dow Jones Industrial Average op zijn laagste punt in zes jaar na een verlies van 1,16 % of 89,68 punten , waardoor de waarde daalde tot 7.465,95 punten . ^ Op een gegeven moment werd een absoluut dieptepunt van 7.447,55 bereikt . ^ Dit was de laagste waarde aan het eind van de dag sinds 9 oktober 2002 . ^ De Dow is sinds begin dit jaar bijna 15 procent gedaald . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Dow_Jones_Industrial_Average" support="41" types="" surfaceForm="Dow Jones Industrial Average" offset="0" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Dow_Jones_Industrial_Average" support="41" types="" surfaceForm="Dow Jones Industrial Average" offset="99" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/9_oktober" support="967" types="" surfaceForm="9 oktober" offset="387" similarityScore="0.9999999999964189" percentageOfSecondRank="0.0"/>
+</Resources>
+</Annotation>

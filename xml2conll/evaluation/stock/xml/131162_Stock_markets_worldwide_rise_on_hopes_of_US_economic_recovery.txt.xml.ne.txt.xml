@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Beurzen stijgen wereldwijd na hoop op Amerikaans economisch herstel ^ 21-Aug-09 ^ De beursindexen stegen vrijdag over de hele wereld nadat Ben Bernanke , voorzitter van de Federal Reserve , zei dat de Amerikaanse economie zich begint te herstellen van de recessie . ^ Hij sprak tijdens een conferentie in Wyoming en zei dat ``de vooruitzichten voor hernieuwde groei in de nabije toekomst goed lijken . ' ' ^ Hij voegde er wel aan toe dat ``het economisch herstel waarschijnlijk eerst langzaam zal verlopen en de werkeloosheid maar langzaam zal dalen . ' ' ^ De Dow Jones Industrial Average steeg 155,91 punten , of 1,67 % , en sloot de dag af op 9505,96 . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Verenigde_Staten" support="94362" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Amerikaans" offset="38" similarityScore="0.9999999586622161" percentageOfSecondRank="3.4086601524661996E-8"/>
+<Resource URI="http://nl.dbpedia.org/resource/Ben_Bernanke" support="13" types="DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person" surfaceForm="Ben Bernanke" offset="139" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Federal_Reserve" support="195" types="" surfaceForm="Federal Reserve" offset="172" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Verenigde_Staten" support="94362" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Amerikaanse" offset="201" similarityScore="0.9999997838396217" percentageOfSecondRank="1.1357600427043235E-7"/>
+<Resource URI="http://nl.dbpedia.org/resource/Recessie" support="169" types="" surfaceForm="recessie" offset="255" similarityScore="0.9999996576887629" percentageOfSecondRank="3.423114012632926E-7"/>
+<Resource URI="http://nl.dbpedia.org/resource/Wyoming" support="604" types="" surfaceForm="Wyoming" offset="305" similarityScore="0.9999999989364596" percentageOfSecondRank="8.364865421190636E-10"/>
+<Resource URI="http://nl.dbpedia.org/resource/Dow_Jones_Industrial_Average" support="41" types="" surfaceForm="Dow Jones Industrial Average" offset="561" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+</Resources>
+</Annotation>

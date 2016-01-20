@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Aandelenmarkten blijven internationaal dalen ^ 09-Oct-08 ^ De aandelenmarkten bleven vandaag sterk dalen . ^ Dit is het gevolg van huidige gebeurtenissen in de financiële wereld , waaronder het feit dat de Amerikaanse overheid de financiële sector redt met een injectie van $ 700 miljard . ^ Om 18.00 uur UTC was de FTSE 100 , de voornaamste Engelse index , een van de weinige die in waarde steeg . ^ De FTSE 100 steeg met 0,16 % ( 16,03 punten ) maar bleef onder de 5000 steken op 4605,22 . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Verenigde_Staten" support="94362" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Amerikaanse" offset="206" similarityScore="0.9999326750728053" percentageOfSecondRank="5.759675632445657E-5"/>
+<Resource URI="http://nl.dbpedia.org/resource/UTC" support="435" types="" surfaceForm="UTC" offset="305" similarityScore="0.9999999999823785" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/FTSE_100" support="23" types="" surfaceForm="FTSE 100" offset="316" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Engels" support="9872" types="Schema:Language,DBpedia:Language" surfaceForm="Engelse" offset="342" similarityScore="0.5342670480010692" percentageOfSecondRank="0.6501767589676926"/>
+<Resource URI="http://nl.dbpedia.org/resource/FTSE_100" support="23" types="" surfaceForm="FTSE 100" offset="404" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+</Resources>
+</Annotation>

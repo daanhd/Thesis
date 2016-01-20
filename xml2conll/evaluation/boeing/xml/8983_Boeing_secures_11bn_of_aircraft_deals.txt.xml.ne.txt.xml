@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Boeing verkrijgt $ 11 miljard aan vliegtuig deals ^ 27-Apr-05 ^ Een 777 van American Airlines landt op Heathrow airport Boeing heeft twee grote orders voor nieuwe vliegtuigen bevestigd . ^ Air Canada heeft nieuwe passagiersvliegtuigen ter waarde van US $ 6 miljard besteld en Air India heeft een deal voor nog eens US $ 7 miljard getekend . ^ Het Air Canada-contract omvat een definitieve bestelling van 18 777-machines en 14 exemplaren van de nieuwe middelgrote 787 Dreamliner voor lange afstanden . ^ Er is een optie op nog eens 18 777 - en 46 787-machines . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Boeing" support="825" types="" surfaceForm="Boeing" offset="0" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/American_Airlines" support="94" types="DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Airline" surfaceForm="American Airlines" offset="76" similarityScore="1.0" percentageOfSecondRank="1.56309139712946E-17"/>
+<Resource URI="http://nl.dbpedia.org/resource/Luchthaven_Londen_Heathrow" support="120" types="Schema:Place,DBpedia:Place,DBpedia:ArchitecturalStructure,DBpedia:Infrastructure,Schema:Airport,DBpedia:Airport" surfaceForm="Heathrow airport" offset="103" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Boeing" support="825" types="" surfaceForm="Boeing" offset="120" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Air_Canada" support="31" types="DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Airline" surfaceForm="Air Canada" offset="189" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Amerikaanse_dollar" support="1612" types="DBpedia:Currency" surfaceForm="US $" offset="250" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Air_India" support="36" types="DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Airline" surfaceForm="Air India" offset="276" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Amerikaanse_dollar" support="1612" types="DBpedia:Currency" surfaceForm="US $" offset="315" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+</Resources>
+</Annotation>

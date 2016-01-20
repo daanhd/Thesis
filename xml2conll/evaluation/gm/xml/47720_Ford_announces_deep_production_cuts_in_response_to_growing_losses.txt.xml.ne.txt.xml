@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Ford kondigt sluiting productiefaciliteiten aan als reactie op groeiende verliezen ^ 19-Aug-06 ^ Ford kondigt een inkrimping van 21 % ( 168.000 stuks ) in de Amerikaanse en Canadese productie aan , waardoor een deel van de tien fabrieken in het vierde kwartaal worden gesloten . ^ Deze maatregel volgt op bestaande reorganisatieplannen die in januari werden aangekondigd , waaronder tot 2012 25.000 tot 30.000 arbeidsplaatsen verdwijnen en 14 fabrieken worden gesloten . ^ Ford is de op twee na grootste autofabrikant ter wereld en de op een na grootste in de V. S .. ^ De afgelopen jaren werd het bedrijf geconfronteerd met lage winst en een dalend marktaandeel . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Ford_Motor_Company" support="1570" types="" surfaceForm="Ford" offset="0" similarityScore="0.9999999999954525" percentageOfSecondRank="4.008218153743333E-12"/>
+<Resource URI="http://nl.dbpedia.org/resource/Ford_Motor_Company" support="1570" types="" surfaceForm="Ford" offset="97" similarityScore="0.9999999999954525" percentageOfSecondRank="4.008218153743333E-12"/>
+<Resource URI="http://nl.dbpedia.org/resource/Verenigde_Staten" support="94362" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Amerikaanse" offset="158" similarityScore="0.9994402365474478" percentageOfSecondRank="4.3249086658670203E-4"/>
+<Resource URI="http://nl.dbpedia.org/resource/Canada" support="11433" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Canadese" offset="173" similarityScore="0.9999999999868123" percentageOfSecondRank="6.608492660336329E-12"/>
+<Resource URI="http://nl.dbpedia.org/resource/Ford_Motor_Company" support="1570" types="" surfaceForm="Ford" offset="473" similarityScore="0.9999999999954525" percentageOfSecondRank="4.008218153743333E-12"/>
+</Resources>
+</Annotation>

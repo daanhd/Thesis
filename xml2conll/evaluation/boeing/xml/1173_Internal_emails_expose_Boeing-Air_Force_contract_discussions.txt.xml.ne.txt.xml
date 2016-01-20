@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Interne e-mails onthullen contractgesprekken tussen Boeing en Air Force ^ 24-Nov-04 ^ Er zijn e-mailberichten over een deal van USD $ 23 miljard met vliegtuigbouwer Boeing , die zijn uitgewisseld tussen vertegenwoordigers van de United States Air Force , in openbaarheid gebracht . ^ Senator John McCain ( Republikeins , Arizona ) zorgde ervoor dat ze in het Congressional Record werden opgenomen tijdens een speech vorige week , waarin hij protesteerde tegen de inmiddels geannuleerde deal om 100 tankvliegtuigen van Boeing te leasen . ^ De wetgever keurde het voorstel in oktober al af , alhoewel experts in de sector stellen dat de deal door het Pentagon is gestopt vanwege meldingen dat de deal ten gunste van Boeing uitviel . ^ Senator McCain was de grootste criticus van de deal . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Boeing" support="825" types="" surfaceForm="Boeing" offset="52" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Amerikaanse_dollar" support="1612" types="DBpedia:Currency" surfaceForm="USD" offset="128" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Boeing" support="825" types="" surfaceForm="Boeing" offset="165" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/United_States_Air_Force" support="610" types="" surfaceForm="United States Air Force" offset="229" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/John_McCain" support="168" types="DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person" surfaceForm="John McCain" offset="292" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Arizona_(staat)" support="1226" types="" surfaceForm="Arizona" offset="321" similarityScore="0.9999999996161932" percentageOfSecondRank="3.836973326022443E-10"/>
+<Resource URI="http://nl.dbpedia.org/resource/Tankvliegtuig" support="33" types="" surfaceForm="tankvliegtuigen" offset="498" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Boeing" support="825" types="" surfaceForm="Boeing" offset="518" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/United_States_Department_of_Defense" support="182" types="" surfaceForm="Pentagon" offset="649" similarityScore="0.9999862150427529" percentageOfSecondRank="1.378514725893211E-5"/>
+<Resource URI="http://nl.dbpedia.org/resource/Boeing" support="825" types="" surfaceForm="Boeing" offset="714" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+</Resources>
+</Annotation>

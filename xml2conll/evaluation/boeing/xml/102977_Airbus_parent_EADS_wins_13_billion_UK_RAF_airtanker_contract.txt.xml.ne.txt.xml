@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Airbus-eigenaar EADS verkrijgt RAF-contract tankvliegtuigen van 13 miljard pond ^ 27-Mar-08 ^ European Aeronautic Defence &amp; Space NV ( EADS ) , het moederbedrijf van de Europese vliegtuigbouwer Airbus , heeft een contract ter waarde van GBP 13 miljard verkregen om tankvliegtuigen aan de Engelse Royal Air Force ( RAF ) te leveren , die de bestaande verouderende vloot zullen vervangen . ^ AirTanker Ltd. , een consortium onder leiding van EADS , heeft een contract van 27 jaar getekend met het Engelse ministerie van defensie voor de levering van 14 nieuwe Airbus A330-200 passagiersvliegtuigen , die worden omgebouwd tot tanker . ^ Ze worden aangekocht door AirTanker , die de commerciële leaserechten behoudt op vijf toestellen die 290 passagiers plus vracht kunnen vervoeren maar in de RAF-kleuren zullen vliegen . ^ Ze vervangen huidige Lockheed Tristar en Vickers VC-10-machines . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Airbus_Group" support="71" types="" surfaceForm="EADS" offset="16" similarityScore="0.9861592761789864" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Tankvliegtuig" support="33" types="" surfaceForm="tankvliegtuigen" offset="44" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Airbus_Group" support="71" types="" surfaceForm="EADS" offset="135" similarityScore="0.9861592761789864" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Airbus" support="380" types="" surfaceForm="Airbus" offset="194" similarityScore="1.0" percentageOfSecondRank="1.9607742601452674E-34"/>
+<Resource URI="http://nl.dbpedia.org/resource/Pond_sterling" support="479" types="DBpedia:Currency" surfaceForm="GBP" offset="237" similarityScore="1.0" percentageOfSecondRank="4.5724012959458857E-17"/>
+<Resource URI="http://nl.dbpedia.org/resource/Tankvliegtuig" support="33" types="" surfaceForm="tankvliegtuigen" offset="265" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Groot-Brittannië" support="8920" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Island" surfaceForm="Engelse" offset="288" similarityScore="0.88593440166171" percentageOfSecondRank="0.12841860455283177"/>
+<Resource URI="http://nl.dbpedia.org/resource/Royal_Air_Force" support="1129" types="" surfaceForm="Royal Air Force" offset="296" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Royal_Air_Force" support="1129" types="" surfaceForm="RAF" offset="314" similarityScore="1.0" percentageOfSecondRank="1.9639393757490153E-20"/>
+<Resource URI="http://nl.dbpedia.org/resource/Airbus_Group" support="71" types="" surfaceForm="EADS" offset="440" similarityScore="0.9861592761789864" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Groot-Brittannië" support="8920" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Island" surfaceForm="Engelse" offset="495" similarityScore="0.88593440166171" percentageOfSecondRank="0.12841860455283177"/>
+<Resource URI="http://nl.dbpedia.org/resource/Airbus_A330" support="90" types="Schema:Product,DBpedia:MeanOfTransportation,DBpedia:Aircraft" surfaceForm="Airbus A330-200" offset="558" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Tanker" support="373" types="" surfaceForm="tanker" offset="623" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Lockheed_L-1011_TriStar" support="23" types="Schema:Product,DBpedia:MeanOfTransportation,DBpedia:Aircraft" surfaceForm="Lockheed Tristar" offset="842" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Vickers_VC-10" support="3" types="" surfaceForm="VC-10-machines" offset="862" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+</Resources>
+</Annotation>

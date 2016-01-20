@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Apple onthult iPhone 4 en iOS 4 tijdens Worldwide Developers Conference 2010 ^ 08-Jun-10 ^ Tijdens de Apple Worldwide Developers Conference ( WWDC ) onthulde CEO Steve Jobs gisteren de iPhone 4 en het nieuwe iOS 4 besturingssysteem voor Apple mobiele apparaten . ^ Het was een langverwachte maar niet enorm verrassende aankondiging . ^ Technologieblog Gizmodo kreeg in april een prototype van de nieuwe telefoon en publiceerde gedetailleerde informatie online . ^ \&quot; Tijdens de introductie van de iPhone 4 op de jaarlijkse conferentie begon Jobs met een verwijzing naar dit incident en zei hij : \&quot; \&quot; Onderbreek me maar als je dit al hebt gezien . \&quot; \&quot; \&quot; ^ \&quot; De nieuwe iPhone werd door Jobs geloofd als \&quot; \&quot; de grootste sprong die we sinds de oorspronkelijke iPhone hebben gemaakt . \&quot; \&quot; \&quot; " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="0" similarityScore="0.9999999997570512" percentageOfSecondRank="2.429786681760683E-10"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPhone" support="346" types="DBpedia:Device" surfaceForm="iPhone" offset="14" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/IOS_(Apple)" support="244" types="Schema:CreativeWork,DBpedia:Work,DBpedia:Software" surfaceForm="iOS" offset="26" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Worldwide_Developers_Conference" support="42" types="" surfaceForm="Worldwide Developers Conference" offset="40" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="102" similarityScore="0.9999999997570512" percentageOfSecondRank="2.429786681760683E-10"/>
+<Resource URI="http://nl.dbpedia.org/resource/Worldwide_Developers_Conference" support="42" types="" surfaceForm="Worldwide Developers Conference" offset="108" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Worldwide_Developers_Conference" support="42" types="" surfaceForm="WWDC" offset="142" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Bestuursvoorzitter" support="671" types="" surfaceForm="CEO" offset="158" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Steve_Jobs" support="107" types="DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person" surfaceForm="Steve Jobs" offset="162" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPhone" support="346" types="DBpedia:Device" surfaceForm="iPhone" offset="185" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/IOS_(Apple)" support="244" types="Schema:CreativeWork,DBpedia:Work,DBpedia:Software" surfaceForm="iOS" offset="208" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Besturingssysteem" support="1289" types="" surfaceForm="besturingssysteem" offset="214" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="237" similarityScore="0.9999999997570512" percentageOfSecondRank="2.429786681760683E-10"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPhone" support="346" types="DBpedia:Device" surfaceForm="iPhone" offset="497" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPhone" support="346" types="DBpedia:Device" surfaceForm="iPhone" offset="673" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPhone" support="346" types="DBpedia:Device" surfaceForm="iPhone" offset="764" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+</Resources>
+</Annotation>

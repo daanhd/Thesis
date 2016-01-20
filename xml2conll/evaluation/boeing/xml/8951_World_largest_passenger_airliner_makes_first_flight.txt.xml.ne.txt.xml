@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Eerste vlucht van ' s werelds grootste passagiersvliegtuig ter wereld ^ 27-Apr-05 ^ De A380 werd in januari 2005 onthuld ^ Het grootste passagiersvliegtuig ter wereld , de Airbus A380 , heeft na vertrek uit Toulouse in Frankrijk zijn eerste vlucht afgesloten . ^ Het vliegtuig steeg om 08.30 uur UTC precies op tijd op . ^ De machine steeg op naar de helderblauwe hemel met een bemanning van zes man ( die allen een parachute droegen omwille van de veiligheid ) en twintig ton aan testapparatuur aan boord . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Passagiersvliegtuig" support="84" types="" surfaceForm="passagiersvliegtuig" offset="39" similarityScore="0.9871313197953212" percentageOfSecondRank="0.013036442007904506"/>
+<Resource URI="http://nl.dbpedia.org/resource/Airbus_A380" support="93" types="Schema:Product,DBpedia:MeanOfTransportation,DBpedia:Aircraft" surfaceForm="A380" offset="87" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Passagiersvliegtuig" support="84" types="" surfaceForm="passagiersvliegtuig" offset="136" similarityScore="0.9871313197953212" percentageOfSecondRank="0.013036442007904506"/>
+<Resource URI="http://nl.dbpedia.org/resource/Airbus_A380" support="93" types="Schema:Product,DBpedia:MeanOfTransportation,DBpedia:Aircraft" surfaceForm="Airbus A380" offset="172" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Toulouse" support="987" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Region,Schema:AdministrativeArea,DBpedia:AdministrativeRegion,DBpedia:GovernmentalAdministrativeRegion,DBpedia:Municipality" surfaceForm="Toulouse" offset="207" similarityScore="0.9999999625626976" percentageOfSecondRank="2.980179185083438E-8"/>
+<Resource URI="http://nl.dbpedia.org/resource/Frankrijk" support="83752" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Frankrijk" offset="219" similarityScore="0.9998628323470097" percentageOfSecondRank="1.1054701206652669E-4"/>
+<Resource URI="http://nl.dbpedia.org/resource/UTC" support="435" types="" surfaceForm="UTC" offset="296" similarityScore="0.9999999999999432" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Parachute" support="347" types="" surfaceForm="parachute" offset="416" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+</Resources>
+</Annotation>

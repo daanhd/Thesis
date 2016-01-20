@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Autofabrikant GM schrapt 10.000 banen bij Opel ^ 05-Nov-09 ^ Het Amerikaanse autobedrijf General Motors zei dat het 10.000 banen zal schrappen bij de Europese divisie Opel . ^ Volgens de vicepresident van het bedrijf , John Smith , wil GM de kosten bij Opel met 30 % verlagen . ^ Smith kondigde het nieuws woensdag aan . ^ Hij zei niet waar de banen zouden worden geschrapt maar wilde Europese overheden ``zeer binnenkort ' ' meer informatie over het plan geven . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Opel" support="726" types="DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company" surfaceForm="Opel" offset="42" similarityScore="0.9999999999997726" percentageOfSecondRank="2.005447456429266E-13"/>
+<Resource URI="http://nl.dbpedia.org/resource/Verenigde_Staten" support="94362" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Amerikaanse" offset="65" similarityScore="0.9999748225938534" percentageOfSecondRank="2.1831465665670142E-5"/>
+<Resource URI="http://nl.dbpedia.org/resource/General_Motors" support="640" types="" surfaceForm="General Motors" offset="89" similarityScore="0.9999999963657729" percentageOfSecondRank="3.6342373587381143E-9"/>
+<Resource URI="http://nl.dbpedia.org/resource/Opel" support="726" types="DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company" surfaceForm="Opel" offset="167" similarityScore="0.9999999999997726" percentageOfSecondRank="2.005447456429266E-13"/>
+<Resource URI="http://nl.dbpedia.org/resource/John_Smith_(ontdekkingsreiziger)" support="32" types="" surfaceForm="John Smith" offset="219" similarityScore="0.9981819447668551" percentageOfSecondRank="0.0010100423139186025"/>
+<Resource URI="http://nl.dbpedia.org/resource/Opel" support="726" types="DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company" surfaceForm="Opel" offset="253" similarityScore="0.9999999999997726" percentageOfSecondRank="2.005447456429266E-13"/>
+<Resource URI="http://nl.dbpedia.org/resource/Nieuws" support="237" types="" surfaceForm="nieuws" offset="299" similarityScore="0.9996996919775084" percentageOfSecondRank="3.003273049562144E-4"/>
+</Resources>
+</Annotation>

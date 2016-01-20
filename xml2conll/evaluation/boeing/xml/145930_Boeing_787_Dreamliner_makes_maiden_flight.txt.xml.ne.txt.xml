@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Boeing 787 ``Dreamliner ' ' rondt eerste vlucht af ^ 16-Dec-09 ^ Het jongste commerciële vliegtuig van Boeing , de 787 ``Dreamliner ' ' , voerde op donderdag om 18.00 uur UTC zijn eerste testvlucht uit in Everett , Washington . ^ Boeing claimt dat het nieuwe tweemotorige widebody-vliegtuig met meer dan 290 stoelen minder brandstof verbruikt dan eerdere modellen van Boeing . ^ De ontwikkeling van de ``Dreamliner ' ' heeft bijna tweeëneenhalf jaar vertraging opgelopen . ^ Het project had te lijden onder verscheidene problemen , waaronder stakingen , een tekort aan onderdelen en ontwerpproblemen . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Boeing_787" support="46" types="Schema:Product,DBpedia:MeanOfTransportation,DBpedia:Aircraft" surfaceForm="Boeing 787" offset="0" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Boeing" support="825" types="" surfaceForm="Boeing" offset="103" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/UTC" support="435" types="" surfaceForm="UTC" offset="171" similarityScore="0.9999999999998863" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Washington_(staat)" support="1527" types="" surfaceForm="Washington" offset="215" similarityScore="0.7018640634542588" percentageOfSecondRank="0.4117738056658197"/>
+<Resource URI="http://nl.dbpedia.org/resource/Boeing" support="825" types="" surfaceForm="Boeing" offset="230" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Boeing" support="825" types="" surfaceForm="Boeing" offset="368" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+</Resources>
+</Annotation>

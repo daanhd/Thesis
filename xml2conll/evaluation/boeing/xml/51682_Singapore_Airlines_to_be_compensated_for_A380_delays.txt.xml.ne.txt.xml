@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Singapore Airlines krijgt vergoeding voor vertraging A380 ^ 05-Oct-06 ^ Singapore Airlines zegt dat het een vergoeding van Airbus krijgt voor de extra vertraging bij de levering van de nieuwe A380 superjumbo . ^ De oplevering van het commerciële dubbeldeksvliegtuig , dat oorspronkelijk later dit jaar zou worden geleverd , wordt uitgesteld tot oktober 2007 . ^ Het voornaamste probleem ligt in de 500 km aan bekabeling die het vliegtuig bevat . ^ In een verklaring op zijn website zei Airbus dat ``de hoofdoorzaak van het probleem erin ligt dat het 3D digitale model , dat het ontwerp van de elektrische harnasinstallatie vereenvoudigt , te laat werd geïmplementeerd en de mensen die eraan werkten nog in de leercurve zaten ' ' . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Singapore_Airlines" support="52" types="DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Airline" surfaceForm="Singapore Airlines" offset="0" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Airbus_A380" support="93" types="Schema:Product,DBpedia:MeanOfTransportation,DBpedia:Aircraft" surfaceForm="A380" offset="53" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Singapore_Airlines" support="52" types="DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Airline" surfaceForm="Singapore Airlines" offset="72" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Airbus" support="380" types="" surfaceForm="Airbus" offset="123" similarityScore="0.9999999999998863" percentageOfSecondRank="7.766116004822202E-14"/>
+<Resource URI="http://nl.dbpedia.org/resource/Airbus_A380" support="93" types="Schema:Product,DBpedia:MeanOfTransportation,DBpedia:Aircraft" surfaceForm="A380" offset="192" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Airbus" support="380" types="" surfaceForm="Airbus" offset="486" similarityScore="0.9999999999998863" percentageOfSecondRank="7.766116004822202E-14"/>
+<Resource URI="http://nl.dbpedia.org/resource/Driedimensionaal" support="724" types="" surfaceForm="3D" offset="550" similarityScore="0.9874221268546994" percentageOfSecondRank="0.010287852841632134"/>
+</Resources>
+</Annotation>

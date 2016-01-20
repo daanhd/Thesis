@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Government Accountability Office eist nieuwe aanbestedingsprocedure US Air Force tankvliegtuig ^ 02-Jul-08 ^ Op 18 juni verzocht de Amerikaanse Rekenkamer ( GAO ) om een nieuwe aanbestedingsprocedure voor het tankercontract van 40 miljard dollar voor de U.S . Air Force wegens grote tekortkomingen in het aanbestedingsproces . ^ Dit brengt het plan van Northrop Grumman en EADS North America om de machines in Mobile in de Amerikaanse staat Alabama in elkaar te zetten in gevaar . ^ Toen de Air Force op 29 februari Northrop Grumman , dat in Los Angeles is gevestigd , selecteerde om het vliegtuig te bouwen , vocht Boeing de toekenning formeel aan bij de Government Accountability Office omdat de evaluatie ten gunste van Northrop uitviel . ^ De GAO bevestigde de klacht van Boeing alhoewel niet elke individuele claim werd toegekend . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/United_States_Air_Force" support="610" types="" surfaceForm="US Air Force" offset="68" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Tankvliegtuig" support="33" types="" surfaceForm="tankvliegtuig" offset="81" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/18_juni" support="931" types="" surfaceForm="18 juni" offset="112" similarityScore="0.9999999999990905" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Verenigde_Staten" support="94362" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Amerikaanse" offset="132" similarityScore="0.9999999561588321" percentageOfSecondRank="4.300608711839329E-8"/>
+<Resource URI="http://nl.dbpedia.org/resource/GAO" support="1" types="" surfaceForm="GAO" offset="157" similarityScore="0.500880687638321" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Northrop_Grumman" support="26" types="" surfaceForm="Grumman" offset="362" similarityScore="0.999993644281933" percentageOfSecondRank="6.3557584752364234E-6"/>
+<Resource URI="http://nl.dbpedia.org/resource/Airbus_Group" support="71" types="" surfaceForm="EADS" offset="373" similarityScore="0.9861592761789864" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Verenigde_Staten" support="94362" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="America" offset="384" similarityScore="0.999999999104034" percentageOfSecondRank="5.036631684271587E-10"/>
+<Resource URI="http://nl.dbpedia.org/resource/Mobile_(Alabama)" support="92" types="" surfaceForm="Mobile" offset="410" similarityScore="0.9999999999996589" percentageOfSecondRank="2.073184598764959E-13"/>
+<Resource URI="http://nl.dbpedia.org/resource/Verenigde_Staten" support="94362" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Amerikaanse" offset="423" similarityScore="0.9999999561588321" percentageOfSecondRank="4.300608711839329E-8"/>
+<Resource URI="http://nl.dbpedia.org/resource/Alabama" support="1257" types="" surfaceForm="Alabama" offset="441" similarityScore="0.9999995342652658" percentageOfSecondRank="4.657057502867179E-7"/>
+<Resource URI="http://nl.dbpedia.org/resource/Northrop_Grumman" support="26" types="" surfaceForm="Grumman" offset="525" similarityScore="0.999993644281933" percentageOfSecondRank="6.3557584752364234E-6"/>
+<Resource URI="http://nl.dbpedia.org/resource/Los_Angeles" support="6509" types="" surfaceForm="Los Angeles" offset="542" similarityScore="0.9985584399153772" percentageOfSecondRank="0.0014434938733224583"/>
+<Resource URI="http://nl.dbpedia.org/resource/Boeing" support="825" types="" surfaceForm="Boeing" offset="616" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Northrop" support="43" types="" surfaceForm="Northrop" offset="723" similarityScore="0.9999999999995453" percentageOfSecondRank="4.893968625013223E-13"/>
+<Resource URI="http://nl.dbpedia.org/resource/GAO" support="1" types="" surfaceForm="GAO" offset="747" similarityScore="0.500880687638321" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Boeing" support="825" types="" surfaceForm="Boeing" offset="776" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+</Resources>
+</Annotation>

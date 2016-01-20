@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Boeing onthult nieuwe 787 Dreamliner ^ 09-Jul-07 ^ Vliegtuigfabrikant Boeing onthulde de nieuwe 787 Dreamliner in zijn Everett-fabriek bij Seattle , Washington , in de Verenigde Staten . ^ Er was gekozen voor zondag omdat de datum die dag in de Amerikaanse notatie overeenkomt met het registratienummer van het toestel : 7/8/07 . ^ Er waren 15.000 mensen aanwezig , waaronder werknemers , klanten , leveranciers en vertegenwoordigers van de nationale en lokale overheid . ^ Scott Carson , president en CEO van Boeing Commercial Airplanes , zei : ``Dit was een prachtige dag om de introductie van dit fantastische toestel te vieren met onze klanten , werknemers , leveranciers en de omringende gemeenschap . ' ' " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Boeing" support="825" types="" surfaceForm="Boeing" offset="0" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Boeing" support="825" types="" surfaceForm="Boeing" offset="70" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Seattle" support="1181" types="" surfaceForm="Seattle" offset="139" similarityScore="0.9999998793816831" percentageOfSecondRank="1.206059842870443E-7"/>
+<Resource URI="http://nl.dbpedia.org/resource/Washington_(staat)" support="1527" types="" surfaceForm="Washington" offset="149" similarityScore="0.9414873096947936" percentageOfSecondRank="0.06212330279700203"/>
+<Resource URI="http://nl.dbpedia.org/resource/Verenigde_Staten" support="94362" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Verenigde Staten" offset="168" similarityScore="0.999999995641474" percentageOfSecondRank="3.670326836935499E-9"/>
+<Resource URI="http://nl.dbpedia.org/resource/Verenigde_Staten" support="94362" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Amerikaanse" offset="245" similarityScore="0.9999997958921294" percentageOfSecondRank="1.9558315242693969E-7"/>
+<Resource URI="http://nl.dbpedia.org/resource/Scott_Carson" support="3" types="DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person,DBpedia:Athlete,DBpedia:SoccerPlayer" surfaceForm="Scott Carson" offset="474" similarityScore="0.9999999998863132" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Bestuursvoorzitter" support="671" types="" surfaceForm="CEO" offset="502" similarityScore="0.9999999999969305" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Boeing_Commercial_Airplanes" support="2" types="" surfaceForm="Boeing Commercial Airplanes" offset="510" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+</Resources>
+</Annotation>

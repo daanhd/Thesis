@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Apple plant nog een speciaal evenement ^ 04-Oct-05 ^ Slechts een maand na het speciale evenement dat werd georganiseerd voor de iPod nano en iTunes phone kondigde Apple Computer vandaag aan dat op 12 oktober nog een speciaal evenement wordt gehouden . ^ Dit wordt georganiseerd in het California Theater in San Jose , Californië . ^ Op de uitnodiging staat : ``Nog één ding . .. ' ' , de plagerige uitdrukking van Steve Jobs . ^ De woorden stonden gedrukt op een foto van gesloten theatergordijnen . ^ Apple verkrijgt sinds kort rechten om muziekclips van platenmaatschappijen te verkopen . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="0" similarityScore="0.99999999958834" percentageOfSecondRank="4.1165952603521034E-10"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPod_nano" support="26" types="" surfaceForm="iPod nano" offset="128" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/ITunes" support="493" types="Schema:CreativeWork,DBpedia:Work,DBpedia:Software" surfaceForm="iTunes" offset="141" similarityScore="0.9999447086041678" percentageOfSecondRank="5.5294453125411016E-5"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple Computer" offset="163" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/12_oktober" support="961" types="" surfaceForm="12 oktober" offset="197" similarityScore="0.9999999999997726" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/San_Jose_(Californië)" support="268" types="" surfaceForm="San Jose" offset="307" similarityScore="0.9999999917740752" percentageOfSecondRank="6.905396052669737E-9"/>
+<Resource URI="http://nl.dbpedia.org/resource/Californië" support="7910" types="" surfaceForm="Californië" offset="318" similarityScore="0.9999939513096376" percentageOfSecondRank="5.810145754406363E-6"/>
+<Resource URI="http://nl.dbpedia.org/resource/Steve_Jobs" support="107" types="DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person" surfaceForm="Steve Jobs" offset="414" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="502" similarityScore="0.99999999958834" percentageOfSecondRank="4.1165952603521034E-10"/>
+</Resources>
+</Annotation>

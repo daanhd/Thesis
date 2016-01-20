@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Omzet uit verkoop General Motors daalt met 45 % ^ 01-Apr-09 ^ General Motors Corporation ( GM ) kondigde woensdag aan dat er in maart 45 % minder auto ' s zijn verkocht in de Verenigde Staten . ^ Topmensen bij enkele autofabrikanten zeiden echter dat er wel enige hoop is dat de autosector zich zal stabiliseren omdat de verkoop weer steeg in de laatste week van maart. ^ ``De markt vertoont kleine tekenen van leven die we moeten opkweken als zaailingen , ' ' zei Jim Press , de vicepresident en chairman van Chrysler LLC . ^ ``Het is nog te vroeg om van een trend te spreken maar de lente geeft tekenen van hoop . ' ' " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/General_Motors" support="640" types="" surfaceForm="General Motors" offset="18" similarityScore="0.9999999999998863" percentageOfSecondRank="1.2423666344982162E-13"/>
+<Resource URI="http://nl.dbpedia.org/resource/General_Motors" support="640" types="" surfaceForm="General Motors" offset="62" similarityScore="0.9999999999998863" percentageOfSecondRank="1.2423666344982162E-13"/>
+<Resource URI="http://nl.dbpedia.org/resource/Verenigde_Staten" support="94362" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Verenigde Staten" offset="175" similarityScore="0.9999999115705162" percentageOfSecondRank="8.746249074047436E-8"/>
+<Resource URI="http://nl.dbpedia.org/resource/Zaailing" support="26" types="" surfaceForm="zaailingen" offset="444" similarityScore="0.9989567180668315" percentageOfSecondRank="0.00104436721953409"/>
+<Resource URI="http://nl.dbpedia.org/resource/Chrysler" support="599" types="" surfaceForm="Chrysler" offset="510" similarityScore="0.9999999879897815" percentageOfSecondRank="1.2010196366720682E-8"/>
+</Resources>
+</Annotation>

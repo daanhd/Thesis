@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Boeing mag weer bieden op Amerikaanse ruimtevaartcontracten ^ 06-Mar-05 ^ De Amerikaanse luchtmacht kondigde aan dat de business units Launch Systems , Launch Services en Delta Program van Boeing weer mogen bieden op Amerikaanse ruimtevaartcontracten . ^ Boeing was na een overtreding van de federale wet uitgesloten van deelname sinds 24 juli 2003 . ^ Er werd ontdekt dat het bedrijf duizenden pagina 's documentatie van Lockheed Martin , de rivaal van Boeing bij de selectie van de leverancier voor eenmalige draagrakketten in 1998 , in zijn bezit had . ^ De USAF en Boeing hebben een voorlopige overeenkomst ondertekend om de belangen van de Amerikaanse luchtmacht te beschermen . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Boeing" support="825" types="" surfaceForm="Boeing" offset="0" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Verenigde_Staten" support="94362" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Amerikaanse" offset="26" similarityScore="0.9999951101040281" percentageOfSecondRank="4.616425617427707E-6"/>
+<Resource URI="http://nl.dbpedia.org/resource/United_States_Air_Force" support="610" types="" surfaceForm="Amerikaanse luchtmacht" offset="77" similarityScore="0.9999997999623447" percentageOfSecondRank="2.000376544973966E-7"/>
+<Resource URI="http://nl.dbpedia.org/resource/Boeing" support="825" types="" surfaceForm="Boeing" offset="189" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Verenigde_Staten" support="94362" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Amerikaanse" offset="217" similarityScore="0.9999951101040281" percentageOfSecondRank="4.616425617427707E-6"/>
+<Resource URI="http://nl.dbpedia.org/resource/Boeing" support="825" types="" surfaceForm="Boeing" offset="255" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/24_juli" support="835" types="" surfaceForm="24 juli" offset="336" similarityScore="0.9999999999992042" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Lockheed_Martin" support="56" types="" surfaceForm="Lockheed Martin" offset="422" similarityScore="0.9998826592325037" percentageOfSecondRank="1.1735453801024293E-4"/>
+<Resource URI="http://nl.dbpedia.org/resource/Boeing" support="825" types="" surfaceForm="Boeing" offset="454" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/United_States_Air_Force" support="610" types="" surfaceForm="USAF" offset="561" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Boeing" support="825" types="" surfaceForm="Boeing" offset="569" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/United_States_Air_Force" support="610" types="" surfaceForm="Amerikaanse luchtmacht" offset="645" similarityScore="0.9999997999623447" percentageOfSecondRank="2.000376544973966E-7"/>
+</Resources>
+</Annotation>

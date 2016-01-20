@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Apple Computer CEO Steve Jobs geeft opening keynote op WWDC 2005 ^ 06-Jun-05 ^ Apple Computer CEO en medeoprichter Steve Jobs gaf afgelopen maandag zijn jaarlijkse opening keynote tijdens de World Wide Developers Conference ( WWDC ) , die wordt gehouden in het Moscone Center in San Francisco , Californië . ^ Hij kondigde naadloze integratie van podcasting met iTunes aan en zei tot ieders verbazing dat toekomstige Apple Macintosh-computers worden voorzien van Intel-processors . ^ Jobs verwelkomde iedereen bij het evenement en zei dat er 3.800 deelnemers waren . ^ Er zijn 500 Apple-engineers aanwezig op wat hun grootste ontwikkelaarsbijeenkomst in het afgelopen decennium is . ^ Er zijn meer dan 500.000 ontwikkelaars van Apple-programma ‘ s ( apps ) . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple Computer" offset="0" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Bestuursvoorzitter" support="671" types="" surfaceForm="CEO" offset="15" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Steve_Jobs" support="107" types="DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person" surfaceForm="Steve Jobs" offset="19" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Worldwide_Developers_Conference" support="42" types="" surfaceForm="WWDC" offset="55" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple Computer" offset="79" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Bestuursvoorzitter" support="671" types="" surfaceForm="CEO" offset="94" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Steve_Jobs" support="107" types="DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person" surfaceForm="Steve Jobs" offset="115" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/World_Wide_Developers_Conference" support="1" types="" surfaceForm="World Wide Developers Conference" offset="191" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Worldwide_Developers_Conference" support="42" types="" surfaceForm="WWDC" offset="226" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Moscone_Center" support="3" types="" surfaceForm="Moscone Center" offset="261" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/San_Francisco" support="2469" types="" surfaceForm="San Francisco" offset="279" similarityScore="1.0" percentageOfSecondRank="2.304066075830384E-18"/>
+<Resource URI="http://nl.dbpedia.org/resource/Californië" support="7910" types="" surfaceForm="Californië" offset="295" similarityScore="0.9999999696220816" percentageOfSecondRank="3.0377760202948425E-8"/>
+<Resource URI="http://nl.dbpedia.org/resource/Podcasten" support="140" types="" surfaceForm="podcasting" offset="347" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/ITunes" support="493" types="Schema:CreativeWork,DBpedia:Work,DBpedia:Software" surfaceForm="iTunes" offset="362" similarityScore="0.9999999152945556" percentageOfSecondRank="8.470545822789373E-8"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="417" similarityScore="0.9999999999998863" percentageOfSecondRank="8.149980774381356E-14"/>
+<Resource URI="http://nl.dbpedia.org/resource/App_store" support="65" types="" surfaceForm="apps" offset="750" similarityScore="0.9881840900473339" percentageOfSecondRank="0.011551487046539338"/>
+</Resources>
+</Annotation>

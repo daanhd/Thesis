@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Japanse aandelen blijven dalen na aardbeving ^ 18-Mar-11 ^ De prominente Japanse Nikkei 225 beursindex daalde donderdag nog eens 1,4 % in de financiële chaos na de enorme aardbeving van 9.0 op de schaal van Richter en de tsunami vorige week . ^ \&quot; In de afgelopen vijf handelsdagen zijn de aandelen in totaal veertien procent gedaald ; vandaag zakten de prijzen met vijf procent , of 454 punten , maar ze herstelden zich tot 8.962 punten . \&quot; ^ \&quot; Ook Amerikaanse aandelen reageerden negatief op de ramp ; de Standard &amp; Poor ' s 500 index daalde 1,95 % en de Dow Jones Industrial Average verloor 2,04 % . \&quot; ^ De Britse FTSE steeg echter 0,77 % , maar wel na gisteren grote verliezen te hebben geleden . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Aardbeving" support="1241" types="" surfaceForm="aardbeving" offset="34" similarityScore="0.9999999999164402" percentageOfSecondRank="6.83416347363143E-11"/>
+<Resource URI="http://nl.dbpedia.org/resource/Nikkei_225" support="15" types="" surfaceForm="Nikkei 225" offset="81" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Aandelenindex" support="109" types="" surfaceForm="beursindex" offset="92" similarityScore="0.9999999999990905" percentageOfSecondRank="9.191521259081956E-13"/>
+<Resource URI="http://nl.dbpedia.org/resource/Aardbeving" support="1241" types="" surfaceForm="aardbeving" offset="171" similarityScore="0.9999999999164402" percentageOfSecondRank="6.83416347363143E-11"/>
+<Resource URI="http://nl.dbpedia.org/resource/Verenigde_Staten" support="94362" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Amerikaanse" offset="452" similarityScore="0.9999983215166584" percentageOfSecondRank="1.6762048093561637E-6"/>
+<Resource URI="http://nl.dbpedia.org/resource/Dow_Jones_Industrial_Average" support="41" types="" surfaceForm="Dow Jones Industrial Average" offset="559" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/FTSE_100" support="23" types="" surfaceForm="FTSE" offset="620" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+</Resources>
+</Annotation>

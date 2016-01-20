@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Aandelenmarkten wereldwijd in vrije val ^ 24-Oct-08 ^ Vandaag daalden de aandelenmarkten wereldwijd dramatisch . ^ Dit is te wijten aan gebeurtenissen in de financiële wereld en de hiermee samenhangende verklaringen door enkele Engelse policiti , waaronder Premier Gordon Brown . ^ Onder andere de Britse FTSE 100-index leed vandaag een groot verlies . ^ Een daling van 5,00 % bracht de index onder de vierduizend tot 3.883,36 . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Vrije_val_(natuurkunde)" support="53" types="" surfaceForm="vrije val" offset="30" similarityScore="0.984665553492038" percentageOfSecondRank="0.0141301035973296"/>
+<Resource URI="http://nl.dbpedia.org/resource/Verenigd_Koninkrijk" support="17931" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Engelse" offset="228" similarityScore="0.5267373455949551" percentageOfSecondRank="0.39386880490827786"/>
+<Resource URI="http://nl.dbpedia.org/resource/Gordon_Brown" support="58" types="DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person" surfaceForm="Gordon Brown" offset="265" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/FTSE_100" support="23" types="" surfaceForm="FTSE 100-index" offset="305" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+</Resources>
+</Annotation>

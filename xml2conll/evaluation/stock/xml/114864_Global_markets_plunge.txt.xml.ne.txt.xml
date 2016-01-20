@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Internationale beurzen in vrije val . ^ 10-Oct-08 ^ De aandelenmarkten zijn wereldwijd sterk gedaald ; enkele beurzen zagen zelfs de grootste daling in de geschiedenis van hun bestaan . ^ De Aziatische markten hadden te maken met de grootste uitverkoop . ^ De Nikkei daalde met 9,62 % tot het dieptepunt in de afgelopen 20 jaar . ^ In Japan vroeg een middelgroot verzekeringsbedrijf , Yamato Life Insurance Company , een faillissement aan . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/DSB_Bank" support="128" types="DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company" surfaceForm="vrije val" offset="26" similarityScore="0.72255161777002" percentageOfSecondRank="0.218635246912603"/>
+<Resource URI="http://nl.dbpedia.org/resource/Nikkei_225" support="15" types="" surfaceForm="Nikkei" offset="260" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Japan" support="20126" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Japan" offset="335" similarityScore="0.9999991034523572" percentageOfSecondRank="5.043490004216896E-7"/>
+<Resource URI="http://nl.dbpedia.org/resource/Yamato_(slagschip)" support="53" types="Schema:Product,DBpedia:MeanOfTransportation,DBpedia:Ship" surfaceForm="Yamato" offset="385" similarityScore="0.920264145018566" percentageOfSecondRank="0.054509767653098624"/>
+</Resources>
+</Annotation>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Apple onthult nieuwe Mac met Intel-processor ^ 11-Jan-06 ^ Apple Computer kondigde dinsdag de eerste generatie van zijn producten met een Intel-processor aan . ^ De iMac en de nieuwe MacBook Pro -- een notebookcomputer die de PowerBook vervangt -- zijn volgens geruchten tot vier maal zo snel als hun voorgangers ( tot twee maal zo snel voor de iMac en vier maal voor de MacBook. ) ^ Deze nieuwe computerlijnen zijn ontworpen voor de meest recente collectie Mac-software , die iLife heeft en internetpublicatiesoftware toevoegt aan de geavanceerde grafische , video en audio tools . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="0" similarityScore="0.9999999600453869" percentageOfSecondRank="3.995459514470041E-8"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Macintosh" support="349" types="" surfaceForm="Mac" offset="21" similarityScore="0.9856297391361485" percentageOfSecondRank="0.014579759614805217"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple Computer" offset="59" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/IMac" support="73" types="" surfaceForm="iMac" offset="165" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/MacBook_Pro" support="12" types="" surfaceForm="MacBook Pro" offset="183" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/PowerBook" support="22" types="" surfaceForm="PowerBook" offset="226" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/IMac" support="73" types="" surfaceForm="iMac" offset="345" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/ILife" support="20" types="Schema:CreativeWork,DBpedia:Work,DBpedia:Software" surfaceForm="iLife" offset="477" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+</Resources>
+</Annotation>

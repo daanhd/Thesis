@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="\&quot; Markten wereldwijd lager ; Dow Jones daalt tot onder 9.000 \&quot; ^ 09-Oct-08 ^ Deze week daalden aandelenmarkten enorm omdat men zich zorgen maakt dat de recente overheidsmaatregelen een wereldwijde recessie niet kunnen stoppen . ^ De Dow Jones ( DJIA ) daalde het sterkst met 678 punten of meer dan 7,3 % tot onder 9.000 en sloot op 8.579,19 . ^ De index daalde in de afgelopen negen dagen meer dan 2000 punten en bereikte een dieptepunt sinds 2003 . ^ De S &amp; P 500 verloor meer dan 7 % . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Dow_Jones_Industrial_Average" support="41" types="" surfaceForm="Dow Jones" offset="30" similarityScore="0.9999999999988631" percentageOfSecondRank="1.1546976537197987E-12"/>
+<Resource URI="http://nl.dbpedia.org/resource/Recessie" support="169" types="" surfaceForm="recessie" offset="199" similarityScore="0.9999983634328122" percentageOfSecondRank="1.6365678933977447E-6"/>
+<Resource URI="http://nl.dbpedia.org/resource/Dow_Jones_Industrial_Average" support="41" types="" surfaceForm="Dow Jones" offset="235" similarityScore="0.9999999999988631" percentageOfSecondRank="1.1546976537197987E-12"/>
+</Resources>
+</Annotation>

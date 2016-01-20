@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Markten in problemen door kredietcrisis ^ 10-Aug-07 ^ De aandelenprijzen daalden vandaag wereldwijd in een massale verkoop , die is te wijten aan de hypotheekcrisis in de Verenigde Staten . ^ De Dow Jones Industrial Average herstelde zich later op de dag na een val van meer dan 250 punten en sloot de dag af met een daling van ongeveer 31 punten . ^ De Engelse FTSE 100-index daalde met 232,90 punten tot 6038,30 en de Japanse Nikkei 225 daalde 406,51 punten tot 16764,09 . ^ Over de hele wereld injecteren centrale banken geld in het bankwezen om de liquiditeit te verbeteren , aangezien wordt gevreesd dat veel financiële instellingen die banden hebben met de hypotheekwereld insolvent zullen raken . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Kredietcrisis" support="569" types="" surfaceForm="kredietcrisis" offset="26" similarityScore="1.0" percentageOfSecondRank="1.0765424226372646E-19"/>
+<Resource URI="http://nl.dbpedia.org/resource/Kredietcrisis" support="569" types="" surfaceForm="hypotheekcrisis" offset="149" similarityScore="1.0" percentageOfSecondRank="3.71099996515917E-20"/>
+<Resource URI="http://nl.dbpedia.org/resource/Verenigde_Staten" support="94362" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Verenigde Staten" offset="171" similarityScore="0.9999999859427363" percentageOfSecondRank="6.803165800546222E-9"/>
+<Resource URI="http://nl.dbpedia.org/resource/Dow_Jones_Industrial_Average" support="41" types="" surfaceForm="Dow Jones Industrial Average" offset="195" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Verenigd_Koninkrijk" support="17931" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Engelse" offset="354" similarityScore="0.9684391243080521" percentageOfSecondRank="0.017024840716108564"/>
+<Resource URI="http://nl.dbpedia.org/resource/FTSE_100" support="23" types="" surfaceForm="FTSE 100-index" offset="362" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Nikkei_225" support="15" types="" surfaceForm="Nikkei 225" offset="428" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Centrale_bank" support="296" types="" surfaceForm="centrale banken" offset="508" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Liquiditeit" support="54" types="" surfaceForm="liquiditeit" offset="552" similarityScore="0.9999999999056399" percentageOfSecondRank="9.250981690847984E-11"/>
+<Resource URI="http://nl.dbpedia.org/resource/Insolventie" support="23" types="" surfaceForm="insolvent" offset="679" similarityScore="0.999999999081183" percentageOfSecondRank="0.0"/>
+</Resources>
+</Annotation>

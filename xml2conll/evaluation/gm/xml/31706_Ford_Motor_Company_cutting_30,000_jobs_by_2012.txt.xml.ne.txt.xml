@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Ford Motor Company schrapt 30.000 banen tot 2012 ^ 23-Jan-06 ^ Ford Motor Company , de op een na grootste autofabrikant in Amerika , is van plan 30.000 banen te schrappen en 14 fabrieken te sluiten in het kader van een herstructureringsplan , dat Ford moet helpen herstellen na een omzetverlies van US $ 1,6 miljard in Noord-Amerika vorig jaar . ^ Het plan getiteld ``Way Forward ' ' is bedacht door William Clay Ford Jr. , de CEO van Ford en moet voor 2008 een eind maken aan de verliezen van Ford in Noord-Amerika . ^ Hiertoe worden 30.000 banen oftewel 20 tot 25 procent van de 122.000 werknemers van Ford in Noord-Amerika geschrapt en 14 fabrieken gesloten , waarmee de productiecapaciteit van Ford overeenkomt met de vraag . ^ Voor het eind van het jaar worden de fabrieken in Atlanta en St. Louis gesloten . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Ford_Motor_Company" support="1570" types="" surfaceForm="Ford Motor Company" offset="0" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Ford_Motor_Company" support="1570" types="" surfaceForm="Ford Motor Company" offset="63" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Ford_Motor_Company" support="1570" types="" surfaceForm="Ford" offset="247" similarityScore="1.0" percentageOfSecondRank="1.9831004184322464E-14"/>
+<Resource URI="http://nl.dbpedia.org/resource/Amerikaanse_dollar" support="1612" types="DBpedia:Currency" surfaceForm="US $" offset="299" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Verenigde_Staten" support="94362" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Noord-Amerika" offset="319" similarityScore="0.6492953275198137" percentageOfSecondRank="0.540131212118436"/>
+<Resource URI="http://nl.dbpedia.org/resource/Bestuursvoorzitter" support="671" types="" surfaceForm="CEO" offset="427" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Ford_Motor_Company" support="1570" types="" surfaceForm="Ford" offset="435" similarityScore="1.0" percentageOfSecondRank="1.9831004184322464E-14"/>
+<Resource URI="http://nl.dbpedia.org/resource/Ford_Motor_Company" support="1570" types="" surfaceForm="Ford" offset="494" similarityScore="1.0" percentageOfSecondRank="1.9831004184322464E-14"/>
+<Resource URI="http://nl.dbpedia.org/resource/Verenigde_Staten" support="94362" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Noord-Amerika" offset="502" similarityScore="0.6492953275198137" percentageOfSecondRank="0.540131212118436"/>
+<Resource URI="http://nl.dbpedia.org/resource/Ford_Motor_Company" support="1570" types="" surfaceForm="Ford" offset="604" similarityScore="1.0" percentageOfSecondRank="1.9831004184322464E-14"/>
+<Resource URI="http://nl.dbpedia.org/resource/Verenigde_Staten" support="94362" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Noord-Amerika" offset="612" similarityScore="0.6492953275198137" percentageOfSecondRank="0.540131212118436"/>
+<Resource URI="http://nl.dbpedia.org/resource/Ford_Motor_Company" support="1570" types="" surfaceForm="Ford" offset="698" similarityScore="1.0" percentageOfSecondRank="1.9831004184322464E-14"/>
+<Resource URI="http://nl.dbpedia.org/resource/Atlanta" support="1459" types="" surfaceForm="Atlanta" offset="782" similarityScore="0.9999890912318252" percentageOfSecondRank="8.418405975377327E-6"/>
+</Resources>
+</Annotation>

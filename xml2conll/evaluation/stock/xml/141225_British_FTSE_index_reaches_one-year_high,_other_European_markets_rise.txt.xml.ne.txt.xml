@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="De FTSE-index bereikt hoogste punt in een jaar , andere Europese beurzen stijgen ^ 12-Oct-09 ^ De Britse beursindex FTSE 100 sloot maandag op het hoogste punt in een jaar nadat betere grondstoffenprijzen werden aangekondigd . ^ De index steeg 48,3 punten of 0,9 % en sloot de dag af op 5.210,17 , wat niet meer is gebeurd sinds afgelopen september . ^ Old Mutual verzekeringsmaatschappij noteerde de hoogste stijging met 4,6 % en bereikte daarmee de hoogste koers in 16 maanden . ^ Een aantal economisch analisten denkt dat de FTSE-index de rest van de week kan blijven stijgen . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Aandelenindex" support="109" types="" surfaceForm="beursindex" offset="105" similarityScore="0.9999999978181222" percentageOfSecondRank="2.181865778659754E-9"/>
+<Resource URI="http://nl.dbpedia.org/resource/FTSE_100" support="23" types="" surfaceForm="FTSE 100" offset="116" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+</Resources>
+</Annotation>

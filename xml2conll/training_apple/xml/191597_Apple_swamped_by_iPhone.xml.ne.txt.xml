@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Apple overweldigd door iPhone 4 pre-orders ^ 16-Jun-10 ^ Op dinsdag konden alvast hun bestelling plaatsen voor de onlangs aangekondigde iPhone 4 , waarbij Apple en AT &amp; T overweldigd raakten door de hoeveelheden . ^ Veel kopers konden moeilijk verbinding maken met de website en klantenservice van Apple . ^ Sommigen konden hun online bestelling niet verzenden en anderen moesten door de problemen online lang wachten in de Apple Store . ^ Enkele klanten meldden dat Apple een bandje afspeelde op de telefoonlijn , waarin werd gevraagd om op een later tijdstip terug te bellen en twitterden over hun ervaring . ^ Sinds de eerste iPhone in 2007 werd uitgebracht , hebben zowel Apple als AT &amp; T problemen gehad bij de introductie van elk nieuw apparaat . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="0" similarityScore="0.9999999061516336" percentageOfSecondRank="9.384835479708051E-8"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPhone" support="346" types="DBpedia:Device" surfaceForm="iPhone" offset="23" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Woonplaats" support="24052" types="" surfaceForm="plaatsen" offset="97" similarityScore="0.999993522564356" percentageOfSecondRank="3.3089081706622205E-6"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPhone" support="346" types="DBpedia:Device" surfaceForm="iPhone" offset="136" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="155" similarityScore="0.9999999061516336" percentageOfSecondRank="9.384835479708051E-8"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="298" similarityScore="0.9999999061516336" percentageOfSecondRank="9.384835479708051E-8"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Retail_Store" support="14" types="" surfaceForm="Apple Store" offset="424" similarityScore="0.9932280875250707" percentageOfSecondRank="0.006818083942510913"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="467" similarityScore="0.9999999061516336" percentageOfSecondRank="9.384835479708051E-8"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPhone" support="346" types="DBpedia:Device" surfaceForm="iPhone" offset="629" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="676" similarityScore="0.9999999061516336" percentageOfSecondRank="9.384835479708051E-8"/>
+</Resources>
+</Annotation>

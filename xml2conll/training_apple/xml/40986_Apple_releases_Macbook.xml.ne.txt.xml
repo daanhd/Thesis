@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Apple introduceert Macbook ^ 17-May-06 ^ Apple Computer introduceerde vandaag de nieuwe MacBook-lijn , die de Macbook en Macbook Pro omvat . ^ Het zijn de opvolgers van de iBooks met Intel Core Duo-processoren en uitgebreide functionaliteit tegen een startprijs van $ 1.099 , - . ^ De MacBook is voorzien van een 13,3 ' ' widescreen display en de Pro is verkrijgbaar met een 15 ' ' of 17 ' ' scherm . ^ De MacBooks zijn er in twee kleuren : Zwart ( alleen model met 2 GHz ) en Wit ( 1,83 en 2 GHz ) . ^ Er is nu nog maar een computer met een PowerPC-processor die nog niet is overgegaan naar de Intel-chip : de PowerMac G5 . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="0" similarityScore="0.9999635633611336" percentageOfSecondRank="3.643796654791007E-5"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple Computer" offset="41" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/MacBook_Pro" support="12" types="" surfaceForm="Macbook Pro" offset="121" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Intel_Core" support="9" types="" surfaceForm="Intel Core" offset="183" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Power_Mac" support="24" types="" surfaceForm="PowerMac" offset="611" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/PowerPC_G5" support="14" types="" surfaceForm="G5" offset="620" similarityScore="0.9999999999998863" percentageOfSecondRank="6.024399043118544E-14"/>
+</Resources>
+</Annotation>

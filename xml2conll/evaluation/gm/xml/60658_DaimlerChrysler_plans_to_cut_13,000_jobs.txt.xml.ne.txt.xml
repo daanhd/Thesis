@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="DaimlerChrysler wil 13.000 banen schrappen ^ 14-Feb-07 ^ Internationaal autobedrijf DaimlerChrysler kondigde vandaag aan dat in Noord-Amerika 13.000 arbeidsplaatsen zullen verdwijnen . ^ Het is mogelijk dat de verlieslijdende onderdelen worden verkocht . ^ Het bedrijf is ook van plan twee Chrysler-fabrieken te sluiten om de Chrysler-activiteiten winstgevend te maken in 2008 . ^ In de V. S. worden zo ' n 9.000 productieplaatsen geschrapt , in Canada 2.000 productieplaatsen en 2.000 banen in loondienst . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Daimler_(Duitsland)" support="305" types="DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company" surfaceForm="DaimlerChrysler" offset="0" similarityScore="0.9999999999999432" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Daimler_(Duitsland)" support="305" types="DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company" surfaceForm="DaimlerChrysler" offset="84" similarityScore="0.9999999999999432" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Noord-Amerika" support="4536" types="" surfaceForm="Noord-Amerika" offset="128" similarityScore="0.7070219083997552" percentageOfSecondRank="0.4143832275979457"/>
+<Resource URI="http://nl.dbpedia.org/resource/Canada" support="11433" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Canada" offset="446" similarityScore="0.9998644652559335" percentageOfSecondRank="1.355289747329109E-4"/>
+</Resources>
+</Annotation>

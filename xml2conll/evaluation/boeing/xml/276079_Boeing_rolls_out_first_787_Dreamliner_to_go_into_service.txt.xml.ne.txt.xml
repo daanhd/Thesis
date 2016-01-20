@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Boeing gaat eerste 787 Dreamliner opleveren ^ 08-Aug-11 ^ Drie jaar nadat het vliegtuig zou worden geleverd , gaat Boeing de eerste machine aan een klant opleveren . ^ Het Japanse ( ANA ) zou het vliegtuig in mei 2008 opgeleverd krijgen maar ontvangt de machine nu volgende maand . ^ Het vliegtuig moet brandstofefficiënter zijn aangezien dit het eerste model is van plastic en koolstof composietmaterialen , die lichter zijn dan conventionele materialen . ^ Boeing zegt dat er 800 exemplaren à 200 miljoen zijn besteld . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Boeing" support="825" types="" surfaceForm="Boeing" offset="0" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Boeing" support="825" types="" surfaceForm="Boeing" offset="115" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/All_Nippon_Airways" support="33" types="DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Airline" surfaceForm="ANA" offset="182" similarityScore="1.0" percentageOfSecondRank="2.2746229758409405E-14"/>
+<Resource URI="http://nl.dbpedia.org/resource/Koolstofvezel" support="174" types="" surfaceForm="koolstof" offset="378" similarityScore="0.709704207262209" percentageOfSecondRank="0.4090375961026538"/>
+<Resource URI="http://nl.dbpedia.org/resource/Composiet_(materiaal)" support="115" types="" surfaceForm="composietmaterialen" offset="387" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Boeing" support="825" types="" surfaceForm="Boeing" offset="459" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+</Resources>
+</Annotation>

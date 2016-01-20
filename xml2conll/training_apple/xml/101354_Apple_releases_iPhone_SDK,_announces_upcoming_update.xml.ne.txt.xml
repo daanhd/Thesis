@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Apple introduceert iPhone SDK , kondigt update aan ^ 06-Mar-08 ^ Tijdens een media-evenement op het hoofdkantoor in Cupertino introduceerde Apple de langverwachte iPhones Software Development Kit ( SDK ) en de bijbehorende iTunes App Store ' ' en het iPhone Developer Program . ^ Met de SDK kunnen externe softwareontwikkelaars toepassingen maken voor de iPhone en deze distribueren via de iTunes Apps Stores . ^ \&quot; Alle leden van het iPhone Developer Program kunnen gratis applicaties in de store zetten ; het lidmaatschap kost $ 99 , - ( USD ) . \&quot; ^ Ontwikkelaars kunnen de prijs van de applicaties bepalen of ze gratis aanbieden . ^ Alle apps moeten door Apple worden goedgekeurd voordat ze in de store worden toegelaten . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="0" similarityScore="0.9999999996365432" percentageOfSecondRank="3.634740006040907E-10"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPhone_SDK" support="2" types="" surfaceForm="iPhone SDK" offset="19" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Cupertino" support="12" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement" surfaceForm="Cupertino" offset="116" similarityScore="0.9999999997900204" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="140" similarityScore="0.9999999996365432" percentageOfSecondRank="3.634740006040907E-10"/>
+<Resource URI="http://nl.dbpedia.org/resource/Software_development_kit" support="36" types="" surfaceForm="Software Development Kit" offset="171" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Software_development_kit" support="36" types="" surfaceForm="SDK" offset="198" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/App_store" support="65" types="" surfaceForm="iTunes App Store" offset="223" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPhone" support="346" types="DBpedia:Device" surfaceForm="iPhone" offset="251" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Software_development_kit" support="36" types="" surfaceForm="SDK" offset="287" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPhone" support="346" types="DBpedia:Device" surfaceForm="iPhone" offset="355" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/ITunes" support="493" types="Schema:CreativeWork,DBpedia:Work,DBpedia:Software" surfaceForm="iTunes" offset="390" similarityScore="0.9997376015305109" percentageOfSecondRank="2.6246734052598936E-4"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPhone" support="346" types="DBpedia:Device" surfaceForm="iPhone" offset="435" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Amerikaanse_dollar" support="1612" types="DBpedia:Currency" surfaceForm="USD" offset="540" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/App_store" support="65" types="" surfaceForm="apps" offset="642" similarityScore="0.9998511927630281" percentageOfSecondRank="1.451971667981417E-4"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="659" similarityScore="0.9999999996365432" percentageOfSecondRank="3.634740006040907E-10"/>
+</Resources>
+</Annotation>

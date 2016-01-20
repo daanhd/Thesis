@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Autoverkopen in Verenigde Staten sterk gedaald ^ 03-Feb-09 ^ De verkoop van auto ' s in de Verenigde Staten is in januari met 35 % gedaald vergeleken met januari vorig jaar , meldden autofabrikanten in hun verkoopcijfers voor deze maand . ^ Ford Motor Company verkocht afgelopen maand 42 % minder dan vorig jaar . ^ General Motors meldde een daling van 49 % . ^ Chrysler deed het van alle nationale autofabrikanten het slechtst met een daling van 55 % . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Verenigde_Staten" support="94362" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Verenigde Staten" offset="16" similarityScore="0.998558084111012" percentageOfSecondRank="0.0014386989539473716"/>
+<Resource URI="http://nl.dbpedia.org/resource/Verenigde_Staten" support="94362" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Verenigde Staten" offset="91" similarityScore="0.998558084111012" percentageOfSecondRank="0.0014386989539473716"/>
+<Resource URI="http://nl.dbpedia.org/resource/Ford_Motor_Company" support="1570" types="" surfaceForm="Ford Motor Company" offset="241" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/General_Motors" support="640" types="" surfaceForm="General Motors" offset="316" similarityScore="1.0" percentageOfSecondRank="9.686297009624393E-16"/>
+<Resource URI="http://nl.dbpedia.org/resource/Chrysler" support="599" types="" surfaceForm="Chrysler" offset="362" similarityScore="0.9999925889080215" percentageOfSecondRank="7.4111468775213934E-6"/>
+</Resources>
+</Annotation>

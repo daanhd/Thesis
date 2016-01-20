@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Apple biedt gratis hoesjes aan en geeft geld terug aan iPhone 4-eigenaren ^ 17-Jul-10 ^ Apple Inc. kondigde vrijdag aan dat het eigenaren van de nieuwe iPhone 4 een gratis hoesje aanbiedt in reactie op groeiende vragen over de plaatsing van de antenne in het apparaat . ^ De antenne van de iPhone 4 is een metalen strip die om de zijkant van het apparaat is gewikkeld , waardoor gesprekken worden verbroken wanneer het apparaat op een bepaalde wijze in de hand wordt gehouden . ^ Dit werd aangekondigd tijdens een zeldzame persconferentie van Apple op vrijdagochtend . ^ Tijdens het evenement reageerde CEO Steve Jobs op meldingen van consumenten en de media over problemen met signaalontvangst , die te maken hebben met de positie van de antenne . ^ Jobs haalt het apparaat niet terug en biedt geen hardware-oplossing aan maar zei gisteren dat Apple alle kopers van de iPhone 4 een gratis hoes wordt aangeboden . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="0" similarityScore="0.9999999996730367" percentageOfSecondRank="3.269374370762075E-10"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPhone" support="346" types="DBpedia:Device" surfaceForm="iPhone" offset="55" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple Inc." offset="88" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPhone" support="346" types="DBpedia:Device" surfaceForm="iPhone" offset="152" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPhone" support="346" types="DBpedia:Device" surfaceForm="iPhone" offset="290" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="543" similarityScore="0.9999999996730367" percentageOfSecondRank="3.269374370762075E-10"/>
+<Resource URI="http://nl.dbpedia.org/resource/Bestuursvoorzitter" support="671" types="" surfaceForm="CEO" offset="603" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Steve_Jobs" support="107" types="DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person" surfaceForm="Steve Jobs" offset="607" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="845" similarityScore="0.9999999996730367" percentageOfSecondRank="3.269374370762075E-10"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPhone" support="346" types="DBpedia:Device" surfaceForm="iPhone" offset="870" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+</Resources>
+</Annotation>

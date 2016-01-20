@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Apple introduceert nieuwe , snellere iPhone ^ 09-Jun-09 ^ Apple Computer kondigde vandaag de iPhone 3GS , de nieuwste versie van zijn iPhone , aan . ^ De nieuwe hardware werd onthuld tijdens de jaarlijkse Worldwide Developers Conference van het bedrijf en trok de aandacht van zowel de media als eigenaren van een iPhone . ^ \&quot; Onder de nieuwe functies zijn een verbeterde camera , waarmee de gebruiker ook videobeelden en geluid kan opnemen , en \&quot; \&quot; voice control \&quot; \&quot; , dat gebruikers in staat stelt de meeste functies van de iPhone met hun stem te bedienen . \&quot; ^ Op de nieuwe telefoon staat ook de nieuwe iPhone 3.0-software , die op 17 juni ( twee dagen voordat de telefoon verkrijgbaar zal zijn ) wordt vrijgegeven . ^ Naast de nieuwe iPhone-hardware demonstreerde Apple ook enkele functies van het nieuwe besturingssysteem voor desktopcomputers , dat Snow Leopard heet , evenals de nieuwe Safari 4.0 webbrowser . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="0" similarityScore="0.999999999936108" percentageOfSecondRank="6.387781394771603E-11"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPhone" support="346" types="DBpedia:Device" surfaceForm="iPhone" offset="37" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple Computer" offset="58" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPhone" support="346" types="DBpedia:Device" surfaceForm="iPhone" offset="93" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPhone" support="346" types="DBpedia:Device" surfaceForm="iPhone" offset="134" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Hardware" support="401" types="" surfaceForm="hardware" offset="161" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Worldwide_Developers_Conference" support="42" types="" surfaceForm="Worldwide Developers Conference" offset="205" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPhone" support="346" types="DBpedia:Device" surfaceForm="iPhone" offset="314" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPhone" support="346" types="DBpedia:Device" surfaceForm="iPhone" offset="531" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPhone" support="346" types="DBpedia:Device" surfaceForm="iPhone" offset="612" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Software" support="1576" types="" surfaceForm="3.0-software" offset="623" similarityScore="0.999994951222346" percentageOfSecondRank="5.0488031639832845E-6"/>
+<Resource URI="http://nl.dbpedia.org/resource/17_juni" support="947" types="" surfaceForm="17 juni" offset="641" similarityScore="0.9999999999995453" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="774" similarityScore="0.999999999936108" percentageOfSecondRank="6.387781394771603E-11"/>
+<Resource URI="http://nl.dbpedia.org/resource/Besturingssysteem" support="1289" types="" surfaceForm="besturingssysteem" offset="815" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Safari_(webbrowser)" support="80" types="Schema:CreativeWork,DBpedia:Work,DBpedia:Software" surfaceForm="Safari" offset="899" similarityScore="1.0" percentageOfSecondRank="2.418220187184748E-20"/>
+<Resource URI="http://nl.dbpedia.org/resource/Webbrowser" support="505" types="" surfaceForm="webbrowser" offset="910" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+</Resources>
+</Annotation>

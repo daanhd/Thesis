@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Apple kondigt Mac OS X Lion , iOS 5 en iCloud aan ^ 07-Jun-11 ^ Tijdens de Worldwide Developers Conference ( WWDC ) van Apple in het Moscone West Center in San Francisco kondigde Apple CEO Steve Jobs de volgende generatie softwareproducten van Apple aan . ^ Apple onthulde Lion , de nieuwe versie van het Mac OS X besturingssysteem voor desktop - en laptopcomputers , dat nieuwe functionaliteit omvat . ^ Het bedrijf gaf ook een demonstratie van iOS 5 , een nieuwe versie van het besturingssysteem voor iPhones , iPod Touches en iPads . ^ Daarnaast kondigde Jobs ook een nieuwe iCloud-service aan , waarmee gegevens tussen de apparaten kunnen worden gesynchroniseerd . ^ \&quot; Alle 5.200 deelnemende ontwikkelaars nemen de komende week deel aan workshops met werknemers van Apple ; developerversies van elk product werden vandaag vrijgegeven . \&quot; " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="0" similarityScore="0.9999999999837428" percentageOfSecondRank="1.621461187772662E-11"/>
+<Resource URI="http://nl.dbpedia.org/resource/Mac_OS" support="197" types="Schema:CreativeWork,DBpedia:Work,DBpedia:Software" surfaceForm="Mac OS" offset="14" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/IOS_(Apple)" support="244" types="Schema:CreativeWork,DBpedia:Work,DBpedia:Software" surfaceForm="iOS" offset="30" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/ICloud" support="19" types="Schema:CreativeWork,DBpedia:Work,DBpedia:Software" surfaceForm="iCloud" offset="39" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Worldwide_Developers_Conference" support="42" types="" surfaceForm="Worldwide Developers Conference" offset="75" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Worldwide_Developers_Conference" support="42" types="" surfaceForm="WWDC" offset="109" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="120" similarityScore="0.9999999999837428" percentageOfSecondRank="1.621461187772662E-11"/>
+<Resource URI="http://nl.dbpedia.org/resource/San_Francisco" support="2469" types="" surfaceForm="San Francisco" offset="156" similarityScore="1.0" percentageOfSecondRank="1.3393571837855145E-20"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="179" similarityScore="0.9999999999837428" percentageOfSecondRank="1.621461187772662E-11"/>
+<Resource URI="http://nl.dbpedia.org/resource/Bestuursvoorzitter" support="671" types="" surfaceForm="CEO" offset="185" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Steve_Jobs" support="107" types="DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person" surfaceForm="Steve Jobs" offset="189" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="244" similarityScore="0.9999999999837428" percentageOfSecondRank="1.621461187772662E-11"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="258" similarityScore="0.9999999999837428" percentageOfSecondRank="1.621461187772662E-11"/>
+<Resource URI="http://nl.dbpedia.org/resource/Mac_OS" support="197" types="Schema:CreativeWork,DBpedia:Work,DBpedia:Software" surfaceForm="Mac OS" offset="305" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Besturingssysteem" support="1289" types="" surfaceForm="besturingssysteem" offset="314" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/IOS_(Apple)" support="244" types="Schema:CreativeWork,DBpedia:Work,DBpedia:Software" surfaceForm="iOS" offset="446" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Besturingssysteem" support="1289" types="" surfaceForm="besturingssysteem" offset="480" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPod" support="226" types="" surfaceForm="iPod" offset="513" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="771" similarityScore="0.9999999999837428" percentageOfSecondRank="1.621461187772662E-11"/>
+</Resources>
+</Annotation>

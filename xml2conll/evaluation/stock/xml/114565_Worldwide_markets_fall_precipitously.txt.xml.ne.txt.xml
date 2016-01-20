@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Internationale beurzen in vrije val ^ 06-Oct-08 ^ De aandelenbeurzen hadden vandaag internationaal te maken met een drastische daling . ^ Dit is het gevolg van huidige gebeurtenissen in de financiële wereld , waaronder het feit dat de Amerikaanse overheid de financiële sector redt met een injectie van $ 700 miljard . ^ Om 14.48 uur UTC was de FTSE 100 , de voornaamste Engelse index , met 6,50 % ( 323,65 punten ) in waarde gezakt tot nog verder onder de 5000 , namelijk 4656,60 . ^ De Dow Jones stond op 16.08 uur UTC 3,76 % lager , iets hoger dan eerder vandaag . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Vrije_val_(natuurkunde)" support="53" types="" surfaceForm="vrije val" offset="26" similarityScore="0.9997509196698012" percentageOfSecondRank="1.5154992253644853E-4"/>
+<Resource URI="http://nl.dbpedia.org/resource/Verenigde_Staten" support="94362" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Amerikaanse" offset="235" similarityScore="0.9999886644285575" percentageOfSecondRank="9.979838301640412E-6"/>
+<Resource URI="http://nl.dbpedia.org/resource/UTC" support="435" types="" surfaceForm="UTC" offset="334" similarityScore="0.999999999953161" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/FTSE_100" support="23" types="" surfaceForm="FTSE 100" offset="345" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Engeland" support="26651" types="" surfaceForm="Engelse" offset="371" similarityScore="0.7209887813268442" percentageOfSecondRank="0.27546936868333183"/>
+<Resource URI="http://nl.dbpedia.org/resource/Dow_Jones_Industrial_Average" support="41" types="" surfaceForm="Dow Jones" offset="488" similarityScore="0.9999942789113393" percentageOfSecondRank="5.721121393059037E-6"/>
+<Resource URI="http://nl.dbpedia.org/resource/UTC" support="435" types="" surfaceForm="UTC" offset="517" similarityScore="0.999999999953161" percentageOfSecondRank="0.0"/>
+</Resources>
+</Annotation>

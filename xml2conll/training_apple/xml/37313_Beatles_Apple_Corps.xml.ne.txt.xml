@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Beatles ' Apple Corps spant rechtszaak aan tegen Apple Computer ^ 28-Mar-06 ^ Apple Corps van the Beatles heeft deze week in Londen een rechtszaak aangespannen tegen computer - en elektronicafabrikant Apple Computer , de derde rechtszaak in een langlopend handelsmerkconflict tussen beide bedrijven . ^ \&quot; Apple Corps claimt dat de iTunes Music Store van Apple Computer een overeenkomst tussen de twee bedrijven uit 1991 schendt , waaronder het Apple Computer werd verboden het \&quot; \&quot; Apple \&quot; \&quot; -merk voor bepaalde doeleinden in de muziekindustrie te gebruiken . \&quot; ^ De zaak begint op woensdag voor het koninklijk gerechtshof in het centrum van Londen . ^ Rechter Martin Mann heeft aangegeven dat hij een iPod draagbare muziekspeler heeft , die door Apple Computer wordt gemaakt en verkocht in associatie met de iTunes Music Store . ^ \&quot; Apple Corps heeft Apple Computer al twee keer eerder aangeklaagd voor het gebruik van de naam \&quot; \&quot; Apple \&quot; \&quot; . \&quot; " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Corps" support="3" types="" surfaceForm="Apple Corps" offset="10" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple Computer" offset="49" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Corps" support="3" types="" surfaceForm="Apple Corps" offset="78" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/The_Beatles" support="2080" types="Schema:MusicGroup,DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Band" surfaceForm="the Beatles" offset="94" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Londen" support="17562" types="" surfaceForm="Londen" offset="125" similarityScore="0.999999898249376" percentageOfSecondRank="7.759263893922339E-8"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple Computer" offset="201" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Corps" support="3" types="" surfaceForm="Apple Corps" offset="306" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/ITunes" support="493" types="Schema:CreativeWork,DBpedia:Work,DBpedia:Software" surfaceForm="iTunes Music Store" offset="332" similarityScore="0.9939297715583223" percentageOfSecondRank="0.006107301154836865"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple Computer" offset="355" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple Computer" offset="445" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="484" similarityScore="1.0" percentageOfSecondRank="3.651318477162544E-15"/>
+<Resource URI="http://nl.dbpedia.org/resource/Rechtbank" support="669" types="" surfaceForm="gerechtshof" offset="616" similarityScore="0.9622160320026799" percentageOfSecondRank="0.039267354649081425"/>
+<Resource URI="http://nl.dbpedia.org/resource/Londen" support="17562" types="" surfaceForm="Londen" offset="647" similarityScore="0.999999898249376" percentageOfSecondRank="7.759263893922339E-8"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPod" support="226" types="" surfaceForm="iPod" offset="707" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple Computer" offset="752" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Associatie_(vegetatiekunde)" support="446" types="" surfaceForm="associatie" offset="796" similarityScore="0.6970595954611972" percentageOfSecondRank="0.4206154464151603"/>
+<Resource URI="http://nl.dbpedia.org/resource/ITunes" support="493" types="Schema:CreativeWork,DBpedia:Work,DBpedia:Software" surfaceForm="iTunes Music Store" offset="814" similarityScore="0.9939297715583223" percentageOfSecondRank="0.006107301154836865"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Corps" support="3" types="" surfaceForm="Apple Corps" offset="840" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple Computer" offset="858" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="940" similarityScore="1.0" percentageOfSecondRank="3.651318477162544E-15"/>
+</Resources>
+</Annotation>

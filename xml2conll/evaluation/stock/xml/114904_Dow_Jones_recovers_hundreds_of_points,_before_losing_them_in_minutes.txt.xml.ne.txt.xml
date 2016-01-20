@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Dow Jones wint honderden punten en verliest ze in luttele minuten ^ 10-Oct-08 ^ Na een hoge daling aan het begin van de dag herstelde de Dow Jones Industrial Average zich met honderden punten en steeg de index met 250 punten voordat hij in luttele minuten viel tot - 100 punten . ^ Hierna klom de index tot + 12 om weer naar - 3 te vallen . ^ Vervolgens bleef de Dow Jones rond de nul schommelen . ^ Daarna daalde de beurs tot - 60 voordat de index zich iets herstelde tot - 36 . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Dow_Jones_Industrial_Average" support="41" types="" surfaceForm="Dow Jones" offset="0" similarityScore="0.9999999999999432" percentageOfSecondRank="8.03092708984317E-14"/>
+<Resource URI="http://nl.dbpedia.org/resource/Dow_Jones_Industrial_Average" support="41" types="" surfaceForm="Dow Jones Industrial Average" offset="137" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Dow_Jones_Industrial_Average" support="41" types="" surfaceForm="Dow Jones" offset="363" similarityScore="0.9999999999999432" percentageOfSecondRank="8.03092708984317E-14"/>
+</Resources>
+</Annotation>

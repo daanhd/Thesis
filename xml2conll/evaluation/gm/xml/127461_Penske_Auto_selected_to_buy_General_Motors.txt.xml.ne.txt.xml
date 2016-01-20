@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Penske Auto geselecteerd om Saturn van General Motors over te nemen ^ 05-Jun-09 ^ General Motors Corporation ( GM ) , een Amerikaanse autofabrikant die faillissement heeft aangevraagd , kondigde op vrijdag aan dat het Penske Automotive Group ( PAG ) heeft geselecteerd om Saturn Corporation over te nemen . ^ Deze transactie zal worden afgerond in oktober . ^ De deal omvat de rechten op het handelsmerk Saturn , de vijf huidige modellen en het dealernetwerk . ^ Twee modellen , de Sky en de Astra , worden uit de handel genomen . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Saturn_(automerk)" support="12" types="" surfaceForm="Saturn" offset="28" similarityScore="0.999999999996021" percentageOfSecondRank="3.665999507314694E-12"/>
+<Resource URI="http://nl.dbpedia.org/resource/General_Motors" support="640" types="" surfaceForm="General Motors" offset="39" similarityScore="1.0" percentageOfSecondRank="6.150706070064852E-19"/>
+<Resource URI="http://nl.dbpedia.org/resource/General_Motors" support="640" types="" surfaceForm="General Motors" offset="82" similarityScore="1.0" percentageOfSecondRank="6.150706070064852E-19"/>
+<Resource URI="http://nl.dbpedia.org/resource/Verenigde_Staten" support="94362" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Amerikaanse" offset="122" similarityScore="0.999639786595409" percentageOfSecondRank="3.482688932152421E-4"/>
+<Resource URI="http://nl.dbpedia.org/resource/Saturn_(automerk)" support="12" types="" surfaceForm="Saturn" offset="272" similarityScore="0.999999999996021" percentageOfSecondRank="3.665999507314694E-12"/>
+<Resource URI="http://nl.dbpedia.org/resource/Saturn_(automerk)" support="12" types="" surfaceForm="Saturn" offset="404" similarityScore="0.999999999996021" percentageOfSecondRank="3.665999507314694E-12"/>
+</Resources>
+</Annotation>

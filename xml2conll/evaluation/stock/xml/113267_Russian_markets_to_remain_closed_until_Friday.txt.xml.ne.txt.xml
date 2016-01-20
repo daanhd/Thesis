@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Russische beurzen gesloten tot vrijdag ^ 18-Sep-08 ^ De Russische overheid houdt alle aandelenbeurzen dicht tot vrijdag , waaronder ook de MICEX en RTS . ^ In de zwaarste financiële crisis sinds 1989 doet de staat al het mogelijke om een crash te voorkomen en het vertrouwen van de consument te herstellen . ^ President Dmitri Medvedev verscheen op de nationale televisie om het publiek te sussen . ^ ``Onder de huidige omstandigheden is er geen taak die belangrijker is voor de Russische staat dan de stabiliteit van ons financiële systeem . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Moscow_Interbank_Currency_Exchange" support="7" types="" surfaceForm="MICEX" offset="139" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Rossiejskaja_Torgovaja_Sistema" support="15" types="" surfaceForm="RTS" offset="148" similarityScore="0.99999999999892" percentageOfSecondRank="1.0349065618090612E-12"/>
+<Resource URI="http://nl.dbpedia.org/resource/Dmitri_Kombarov" support="4" types="" surfaceForm="Dmitri" offset="320" similarityScore="0.6231337691010725" percentageOfSecondRank="0.5078860158553712"/>
+</Resources>
+</Annotation>

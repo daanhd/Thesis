@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Aeroflot onderhandelt over aankoop van 22 nieuwe Boeing 787 Dreamliners ^ 10-Jun-07 ^ Aeroflot , de Russische nationale luchtvaartmaatschappij , heeft besloten over te gaan tot de aankoop van 22 nieuwe Boeing 787 Dreamliners , een toestel dat Boeing momenteel ontwikkelt . ^ De eerste vliegtuigen worden in 2014 geleverd . ^ De Dreamliner is het eerste commerciële vliegtuig dat voornamelijk met een composietmateriaal op basis van koolstofvezel wordt gebouwd in plaats van het gebruikelijke aluminium . ^ De deal werd aangekondigd tijdens een groot zakelijk forum dat president Vladimir Poetin organiseerde om de rol van zijn land op de internationale markt onder de aandacht te brengen . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Aeroflot" support="131" types="DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Airline" surfaceForm="Aeroflot" offset="0" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Boeing_787" support="46" types="Schema:Product,DBpedia:MeanOfTransportation,DBpedia:Aircraft" surfaceForm="Boeing 787" offset="49" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Aeroflot" support="131" types="DBpedia:Agent,Schema:Organization,DBpedia:Organisation,DBpedia:Company,DBpedia:Airline" surfaceForm="Aeroflot" offset="86" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Luchtvaartmaatschappij" support="1509" types="" surfaceForm="luchtvaartmaatschappij" offset="120" similarityScore="0.9999994642675191" percentageOfSecondRank="5.357328220588241E-7"/>
+<Resource URI="http://nl.dbpedia.org/resource/Boeing_787" support="46" types="Schema:Product,DBpedia:MeanOfTransportation,DBpedia:Aircraft" surfaceForm="Boeing 787" offset="202" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Boeing" support="825" types="" surfaceForm="Boeing" offset="243" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Composiet_(materiaal)" support="115" types="" surfaceForm="composietmateriaal" offset="400" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Koolstofvezel" support="174" types="" surfaceForm="koolstofvezel" offset="432" similarityScore="0.9999999998898375" percentageOfSecondRank="1.1017055772589229E-10"/>
+<Resource URI="http://nl.dbpedia.org/resource/Aluminium" support="1627" types="" surfaceForm="aluminium" offset="492" similarityScore="0.9999999999972715" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Internetforum" support="240" types="" surfaceForm="forum" offset="559" similarityScore="0.8821947335720401" percentageOfSecondRank="0.13274105658314556"/>
+<Resource URI="http://nl.dbpedia.org/resource/Vladimir_Poetin" support="291" types="DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person" surfaceForm="Vladimir Poetin" offset="579" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+</Resources>
+</Annotation>

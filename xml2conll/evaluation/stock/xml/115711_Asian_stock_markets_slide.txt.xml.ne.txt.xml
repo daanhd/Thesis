@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="\&quot; Aziatische beurzen dalen ; Nikkei op laagste punt sinds 1982 \&quot; ^ 27-Oct-08 ^ Op maandag hervatte de neerwaartse trend op aandelenbeurzen in Azië en daalde de Japanse Nikkei-index tot een dieptepunt dat we sinds oktober 1982 niet meer hebben gezien , aangezien aandeelhouders de maatregelen om de krediet - en aandelencrisis tot stilstand te brengen onvoldoende achten . ^ Taro Aso , de Japanse premier , sprak met hooggeplaatste mensen in de overheid en vroeg ze nieuwe plannen te maken om Japan te behoeden tegen nog meer schade door de internationale recessie . ^ De Nikkei daalde 6,4 procent of 486,18 punten en sloot op 7.162,90 . ^ De Amerikaanse dollar steeg ten opzichte van de yen na zes dagen verlies , waarmee de dollar 92,27 yen waard is . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Nikkei_225" support="15" types="" surfaceForm="Nikkei" offset="30" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Azië" support="4522" types="" surfaceForm="Azië" offset="144" similarityScore="0.9999999659953579" percentageOfSecondRank="2.3393048339893833E-8"/>
+<Resource URI="http://nl.dbpedia.org/resource/Beurskrach_van_1929" support="152" types="" surfaceForm="aandelencrisis" offset="313" similarityScore="0.9999999999974989" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Taro_Aso" support="11" types="DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person" surfaceForm="Taro Aso" offset="376" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Japan" support="20126" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Japan" offset="494" similarityScore="0.9999999951854761" percentageOfSecondRank="2.8605331695702488E-9"/>
+<Resource URI="http://nl.dbpedia.org/resource/Recessie" support="169" types="" surfaceForm="recessie" offset="557" similarityScore="0.9999277846719852" percentageOfSecondRank="7.222054343371401E-5"/>
+<Resource URI="http://nl.dbpedia.org/resource/Nikkei_225" support="15" types="" surfaceForm="Nikkei" offset="573" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Amerikaanse_dollar" support="1612" types="DBpedia:Currency" surfaceForm="Amerikaanse dollar" offset="644" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Japanse_yen" support="93" types="DBpedia:Currency" surfaceForm="yen" offset="689" similarityScore="0.9999999999997726" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Japanse_yen" support="93" types="DBpedia:Currency" surfaceForm="yen" offset="740" similarityScore="0.9999999999997726" percentageOfSecondRank="0.0"/>
+</Resources>
+</Annotation>

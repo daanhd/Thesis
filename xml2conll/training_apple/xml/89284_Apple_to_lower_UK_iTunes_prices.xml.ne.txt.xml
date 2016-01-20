@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Apple verlaagt prijzen iTunes in Engeland ^ 09-Jan-08 ^ De Europese Commissie dwingt Apple Inc. zijn prijzen voor media in de iTunes store , de online mediawinkel van Apple , in het Verenigd Koninkrijk te verlagen . ^ Apple kondigde vanochtend aan dat de beleidsverandering binnen zes maanden zal worden doorgevoerd . ^ Apple is de maker van de iPod , de meest gebruikte mp3-speler ter wereld , en startte de iTunes Music Store , een online muziekwinkel , op 28 april 2003 . ^ De winkel werd in 2006 omgedoopt tot iTunes Store omdat Apple toen naast muziek ook andere media introduceerde , waaronder films . ^ Tot nu toe verkocht de online winkel meer dan 3 miljard nummers . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="0" similarityScore="0.9999999974409093" percentageOfSecondRank="2.5591224613925742E-9"/>
+<Resource URI="http://nl.dbpedia.org/resource/ITunes_Store" support="83" types="" surfaceForm="iTunes" offset="23" similarityScore="0.7037222279790596" percentageOfSecondRank="0.4210152248165234"/>
+<Resource URI="http://nl.dbpedia.org/resource/Verenigd_Koninkrijk" support="17931" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Engeland" offset="33" similarityScore="0.9601245381876965" percentageOfSecondRank="0.04128548775397715"/>
+<Resource URI="http://nl.dbpedia.org/resource/Europese_Commissie" support="1172" types="" surfaceForm="Europese Commissie" offset="59" similarityScore="0.9999999635592765" percentageOfSecondRank="2.6809299584381892E-8"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple Inc." offset="85" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/ITunes_Store" support="83" types="" surfaceForm="iTunes store" offset="126" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="167" similarityScore="0.9999999974409093" percentageOfSecondRank="2.5591224613925742E-9"/>
+<Resource URI="http://nl.dbpedia.org/resource/Verenigd_Koninkrijk" support="17931" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Verenigd Koninkrijk" offset="182" similarityScore="0.9999812614187619" percentageOfSecondRank="1.827897987820359E-5"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="218" similarityScore="0.9999999974409093" percentageOfSecondRank="2.5591224613925742E-9"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="320" similarityScore="0.9999999974409093" percentageOfSecondRank="2.5591224613925742E-9"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPod" support="226" types="" surfaceForm="iPod" offset="345" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Mp3-speler" support="68" types="" surfaceForm="mp3-speler" offset="371" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/ITunes_Store" support="83" types="" surfaceForm="iTunes Music Store" offset="409" similarityScore="0.9971033206882605" percentageOfSecondRank="0.002905094438755169"/>
+<Resource URI="http://nl.dbpedia.org/resource/28_april" support="949" types="" surfaceForm="28 april" offset="459" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/ITunes_Store" support="83" types="" surfaceForm="iTunes Store" offset="514" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="533" similarityScore="0.9999999974409093" percentageOfSecondRank="2.5591224613925742E-9"/>
+</Resources>
+</Annotation>

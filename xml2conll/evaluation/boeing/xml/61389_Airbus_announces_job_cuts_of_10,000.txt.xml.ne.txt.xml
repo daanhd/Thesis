@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Airbus schrapt 10.000 banen ^ 28-Feb-07 ^ 150px Airbus , de grootste vliegtuigbouwer van Europa , gaat de komende vier jaar 10.000 banen schrappen . ^ Dit nieuws werd aangekondigd op het moment dat moederbedrijf EADS een grootschalig herstructureringsprogramma start omdat het bedrijf niet efficiënt genoeg is . ^ Louis Gallois , CEO van Airbus , zei dat binnen het bedrijf naar verwachting ongeveer 4.300 arbeidsplaatsen in Frankrijk , 3.700 in Duitsland , 1.600 in het Verenigd Koninkrijk en 400 in Spanje zullen verdwijnen . ^ Ongeveer de helft van deze banen betreft onderaannemers en tijdelijke werknemers . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Airbus" support="380" types="" surfaceForm="Airbus" offset="0" similarityScore="0.9999999999994316" percentageOfSecondRank="5.43503288584923E-13"/>
+<Resource URI="http://nl.dbpedia.org/resource/Airbus" support="380" types="" surfaceForm="Airbus" offset="48" similarityScore="0.9999999999994316" percentageOfSecondRank="5.43503288584923E-13"/>
+<Resource URI="http://nl.dbpedia.org/resource/Europa_(werelddeel)" support="22724" types="" surfaceForm="Europa" offset="89" similarityScore="0.9999762556495434" percentageOfSecondRank="2.3727074297043607E-5"/>
+<Resource URI="http://nl.dbpedia.org/resource/Nieuws" support="237" types="" surfaceForm="nieuws" offset="155" similarityScore="0.7541624449069381" percentageOfSecondRank="0.32596228907542735"/>
+<Resource URI="http://nl.dbpedia.org/resource/Airbus_Group" support="71" types="" surfaceForm="EADS" offset="212" similarityScore="0.9861592761789864" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Louis_Gallois" support="1" types="" surfaceForm="Louis Gallois" offset="314" similarityScore="0.9997829202335302" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Bestuursvoorzitter" support="671" types="" surfaceForm="CEO" offset="330" similarityScore="0.9999999999998863" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Airbus" support="380" types="" surfaceForm="Airbus" offset="338" similarityScore="0.9999999999994316" percentageOfSecondRank="5.43503288584923E-13"/>
+<Resource URI="http://nl.dbpedia.org/resource/Frankrijk" support="83752" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Frankrijk" offset="425" similarityScore="0.9998205350580929" percentageOfSecondRank="1.3609805987985397E-4"/>
+<Resource URI="http://nl.dbpedia.org/resource/Duitsland" support="58285" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Duitsland" offset="446" similarityScore="0.999725300863098" percentageOfSecondRank="2.503730488766713E-4"/>
+<Resource URI="http://nl.dbpedia.org/resource/Verenigd_Koninkrijk" support="17931" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Verenigd Koninkrijk" offset="471" similarityScore="0.9999992537576019" percentageOfSecondRank="5.624493942884152E-7"/>
+<Resource URI="http://nl.dbpedia.org/resource/Spanje" support="25559" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Spanje" offset="501" similarityScore="0.9999112943788645" percentageOfSecondRank="6.27077685164185E-5"/>
+</Resources>
+</Annotation>

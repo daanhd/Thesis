@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Hooggeplaatst manager bij Apple verlaat bedrijf na antenneproblemen iPhone 4 ^ 09-Aug-10 ^ Mark Papermaster , de manager bij Apple Inc. die toezicht houdt op hardware engineering van de iPhone , is weg bij het bedrijf . ^ Dit volgde op de kritiek die Apple vorige maand kreeg vanwege de positie van de antenne op het meest recente model van de iPhone , de iPhone 4 . ^ Apple bevestigde dat Papermaster ( 49 ) het bedrijf had verlaten maar wilde niet zeggen of hij uit eigen beweging wegging of was ontslagen . ^ Papermaster wilde geen commentaar geven op de situatie . ^ \&quot; Volgens The New York Times , die het nieuws over zijn vertrek openbaarde , zei een anonieme persoon \&quot; \&quot; met directe kennis over de situatie \&quot; \&quot; dat de manager was weggewerkt vanwege meerdere hardwareproblemen , waarvan een deel te maken had met de antenne van de iPod Touch . \&quot; " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="26" similarityScore="0.9999949309334408" percentageOfSecondRank="5.069091951040242E-6"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPhone" support="346" types="DBpedia:Device" surfaceForm="iPhone" offset="68" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple Inc." offset="125" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Hardware" support="401" types="" surfaceForm="hardware" offset="158" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Ingenieur" support="1224" types="" surfaceForm="engineering" offset="167" similarityScore="0.9999967240571777" percentageOfSecondRank="3.2752935022809716E-6"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPhone" support="346" types="DBpedia:Device" surfaceForm="iPhone" offset="186" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="251" similarityScore="0.9999949309334408" percentageOfSecondRank="5.069091951040242E-6"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPhone" support="346" types="DBpedia:Device" surfaceForm="iPhone" offset="344" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPhone" support="346" types="DBpedia:Device" surfaceForm="iPhone" offset="356" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="369" similarityScore="0.9999949309334408" percentageOfSecondRank="5.069091951040242E-6"/>
+<Resource URI="http://nl.dbpedia.org/resource/The_New_York_Times" support="597" types="Schema:CreativeWork,DBpedia:Work,DBpedia:WrittenWork,DBpedia:PeriodicalLiterature,DBpedia:Newspaper" surfaceForm="The New York Times" offset="582" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Nieuws" support="237" types="" surfaceForm="nieuws" offset="611" similarityScore="0.9999836975754166" percentageOfSecondRank="1.6302487853036388E-5"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPod_touch" support="90" types="" surfaceForm="iPod Touch" offset="841" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+</Resources>
+</Annotation>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Apple Inc. CEO Steve Jobs met medisch verlof ^ 17-Jan-11 ^ Steve Jobs , chief executive officer van Apple Inc. , kondigde maandag in een interne memo aan dat hij voor een onbekende periode met medisch verlof gaat . ^ Door de verklaring daalde de aandelenkoers van Apple op buitenlandse markten sterk terwijl de Amerikaanse beurzen waren gesloten ter ere van Martin Luther King . ^ Het is de derde keer in de afgelopen tien jaar dat Jobs , die 55 jaar oud is , medisch verlof opneemt . ^ In 2004 nam hij vrij en ook begin 2009 ging hij met medisch verlof , waarna hij aankondigde een levertransplantatie te hebben ondergaan . ^ Jobs heeft nog niet aangegeven wat dit keer de reden is maar zei dat hij nog steeds de CEO van het bedrijf is . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple Inc." offset="0" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Bestuursvoorzitter" support="671" types="" surfaceForm="CEO" offset="11" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Steve_Jobs" support="107" types="DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person" surfaceForm="Steve Jobs" offset="15" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Steve_Jobs" support="107" types="DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person" surfaceForm="Steve Jobs" offset="59" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Executive" support="1" types="" surfaceForm="executive" offset="78" similarityScore="0.500880687638321" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple Inc." offset="100" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="264" similarityScore="0.9999995814499437" percentageOfSecondRank="4.185406344507312E-7"/>
+<Resource URI="http://nl.dbpedia.org/resource/Verenigde_Staten" support="94362" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Amerikaanse" offset="311" similarityScore="0.9999863290581719" percentageOfSecondRank="1.3629585309176514E-5"/>
+<Resource URI="http://nl.dbpedia.org/resource/Martin_Luther_King" support="187" types="DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person" surfaceForm="Martin Luther King" offset="358" similarityScore="1.0" percentageOfSecondRank="1.1308409866406641E-15"/>
+<Resource URI="http://nl.dbpedia.org/resource/Levertransplantatie" support="23" types="" surfaceForm="levertransplantatie" offset="583" similarityScore="0.9519940123545694" percentageOfSecondRank="0.05042677474047192"/>
+<Resource URI="http://nl.dbpedia.org/resource/Bestuursvoorzitter" support="671" types="" surfaceForm="CEO" offset="714" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+</Resources>
+</Annotation>

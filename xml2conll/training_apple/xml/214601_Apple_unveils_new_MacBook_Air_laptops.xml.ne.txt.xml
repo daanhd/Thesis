@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Apple onthult nieuwe MacBook Air-laptops , iLife ' 11 software suite ^ 23-Oct-10 ^ Tijdens een media-evenement op woensdag introduceerde Apple Inc. een nieuw assortiment MacBook Air-laptops en de versie van de iLife software suite voor 2011 . ^ Het ``Back to the Mac ' ' -evenement omvatte daarnaast een preview van het nieuwe Mac OS X Lion besturingssysteem van Apple , dat halverwege 2011 op de markt wordt gebracht . ^ Apple CEO Steve Jobs onthulde de nieuwe producten tijdens het evenement in Cupertino , Californië en zei dat het bedrijf ``is geïnspireerd door het werk dat met de iPad is gedaan en dit wil implementeren in de Mac . ' ' ^ Apple is van plan meer functionaliteit van het iOS mobiele besturingssysteem over te zetten naar the Mac OS X. ^ Jobs kondigde vandaag aan dat de ``Lion ' ' release van OS X , die staat gepland voor volgende zomer , meer ondersteuning zal bieden voor multitouch en ook een desktopversie van de App Store zal omvatten . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="0" similarityScore="1.0" percentageOfSecondRank="1.8024320090600653E-17"/>
+<Resource URI="http://nl.dbpedia.org/resource/ILife" support="20" types="Schema:CreativeWork,DBpedia:Work,DBpedia:Software" surfaceForm="iLife" offset="43" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Software_suite" support="5" types="" surfaceForm="software suite" offset="54" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple Inc." offset="137" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/ILife" support="20" types="Schema:CreativeWork,DBpedia:Work,DBpedia:Software" surfaceForm="iLife" offset="210" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Software_suite" support="5" types="" surfaceForm="software suite" offset="216" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/OS_X" support="878" types="Schema:CreativeWork,DBpedia:Work,DBpedia:Software" surfaceForm="Mac" offset="263" similarityScore="0.999999661241589" percentageOfSecondRank="3.3875853299987133E-7"/>
+<Resource URI="http://nl.dbpedia.org/resource/Mac_OS" support="197" types="Schema:CreativeWork,DBpedia:Work,DBpedia:Software" surfaceForm="Mac OS" offset="327" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Besturingssysteem" support="1289" types="" surfaceForm="besturingssysteem" offset="341" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="363" similarityScore="1.0" percentageOfSecondRank="1.8024320090600653E-17"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="422" similarityScore="1.0" percentageOfSecondRank="1.8024320090600653E-17"/>
+<Resource URI="http://nl.dbpedia.org/resource/Bestuursvoorzitter" support="671" types="" surfaceForm="CEO" offset="428" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Steve_Jobs" support="107" types="DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person" surfaceForm="Steve Jobs" offset="432" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Cupertino" support="12" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,DBpedia:Settlement" surfaceForm="Cupertino" offset="497" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Californië" support="7910" types="" surfaceForm="Californië" offset="509" similarityScore="0.9999999999943157" percentageOfSecondRank="5.609937213895911E-12"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPad" support="174" types="" surfaceForm="iPad" offset="586" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/OS_X" support="878" types="Schema:CreativeWork,DBpedia:Work,DBpedia:Software" surfaceForm="Mac" offset="632" similarityScore="0.999999661241589" percentageOfSecondRank="3.3875853299987133E-7"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="644" similarityScore="1.0" percentageOfSecondRank="1.8024320090600653E-17"/>
+<Resource URI="http://nl.dbpedia.org/resource/IOS_(Apple)" support="244" types="Schema:CreativeWork,DBpedia:Work,DBpedia:Software" surfaceForm="iOS" offset="691" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Besturingssysteem" support="1289" types="" surfaceForm="besturingssysteem" offset="703" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Mac_OS" support="197" types="Schema:CreativeWork,DBpedia:Work,DBpedia:Software" surfaceForm="Mac OS" offset="745" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/OS_X" support="878" types="Schema:CreativeWork,DBpedia:Work,DBpedia:Software" surfaceForm="OS X" offset="813" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Multi-touchscherm" support="26" types="" surfaceForm="multitouch" offset="895" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/App_store" support="65" types="" surfaceForm="App Store" offset="938" similarityScore="0.9999999998602789" percentageOfSecondRank="1.3969471405468155E-10"/>
+</Resources>
+</Annotation>

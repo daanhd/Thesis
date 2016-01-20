@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Apple onthult iPod nano ^ 07-Sep-05 ^ Apple onthulde vandaag zijn laatste aanwinst in de iPod-collectie , de iPod nano . ^ Dit werd vandaag aangekondigd tijdens een speciaal muziekevenement dat door Apple in het Moscone West Convention Center in San Francisco werd georganiseerd . ^ De iPod Nano is verkrijgbaar in twee kleuren , wit en zwart , en twee maten , 2 GB en 4 GB , waarop respectievelijk 500 en 1.000 nummers kunnen worden opgeslagen tegen een prijs van respectievelijk USD 199 , - en USD 249 , - . ^ De iPod nano is na de Shuffle , die in januari werd geïntroduceerd , het tweede model in de iPod-familie dat is uitgerust met flashgeheugen . ^ De iPod nano vervangt de vergelijkbare iPod Mini in de iPod-collectie . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="0" similarityScore="0.9999999999976126" percentageOfSecondRank="2.375775963917052E-12"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPod_nano" support="26" types="" surfaceForm="iPod nano" offset="14" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="38" similarityScore="0.9999999999976126" percentageOfSecondRank="2.375775963917052E-12"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPod_nano" support="26" types="" surfaceForm="iPod nano" offset="109" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="199" similarityScore="0.9999999999976126" percentageOfSecondRank="2.375775963917052E-12"/>
+<Resource URI="http://nl.dbpedia.org/resource/San_Francisco" support="2469" types="" surfaceForm="San Francisco" offset="246" similarityScore="0.9999999998836984" percentageOfSecondRank="1.1105272145828538E-10"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPod" support="226" types="" surfaceForm="iPod" offset="286" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Gigabyte" support="218" types="" surfaceForm="GB" offset="363" similarityScore="1.0" percentageOfSecondRank="2.6616426705021678E-14"/>
+<Resource URI="http://nl.dbpedia.org/resource/Gigabyte" support="218" types="" surfaceForm="GB" offset="371" similarityScore="1.0" percentageOfSecondRank="2.6616426705021678E-14"/>
+<Resource URI="http://nl.dbpedia.org/resource/Amerikaanse_dollar" support="1612" types="DBpedia:Currency" surfaceForm="USD" offset="481" similarityScore="0.9999999999998863" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Amerikaanse_dollar" support="1612" types="DBpedia:Currency" surfaceForm="USD" offset="496" similarityScore="0.9999999999998863" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPod_nano" support="26" types="" surfaceForm="iPod nano" offset="515" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Flashgeheugen" support="127" types="" surfaceForm="flashgeheugen" offset="638" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPod_nano" support="26" types="" surfaceForm="iPod nano" offset="659" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPod" support="226" types="" surfaceForm="iPod" offset="695" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Mini_(automerk)" support="90" types="" surfaceForm="Mini" offset="700" similarityScore="0.9952667018807001" percentageOfSecondRank="0.004755129816356396"/>
+</Resources>
+</Annotation>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Apple Corps verliest rechtszaak tegen Apple Computer ^ 08-May-06 ^ Apple Corps , het bedrijf dat door de Beatles werd opgericht , heeft de rechtszaak tegen Apple Computer in het Engelse Hoger Gerechtshof vandaag verloren . ^ Apple Corps beargumenteerde dat de iTunes Music Store een overtreding inhield van de overeenkomst die de partijen in 1991 sloten . ^ Volgens de overeenkomst zou Apple Computer geen muziek verkopen met het handelsmerk van een appel . ^ \&quot; De rechter , Anthony Mann , was het eens met Apple Computer ‘ s verdediging , waarin werd aangevoerd dat de iTunes Music Store een handelsmerk draagt maar de muziek die wordt verkocht niet , eens : \&quot; \&quot; Ik concludeer dat het gebruik van het Apple-logo . .. geen relevant verband suggereert met het creatieve werk . \&quot; \&quot; \&quot; ^ In de loop van de rechtszaak toonde Apple Corps hoe vaak het Apple Computer-logo verschijnt tijdens een normale download . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Corps" support="3" types="" surfaceForm="Apple Corps" offset="0" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple Computer" offset="38" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Corps" support="3" types="" surfaceForm="Apple Corps" offset="67" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple Computer" offset="156" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Verenigd_Koninkrijk" support="17931" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Engelse" offset="178" similarityScore="0.7996291781043109" percentageOfSecondRank="0.22735099208965612"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Corps" support="3" types="" surfaceForm="Apple Corps" offset="225" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple Computer" offset="386" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Hoger_beroep" support="621" types="" surfaceForm="appel" offset="450" similarityScore="0.9996903708165281" percentageOfSecondRank="3.0972506031431556E-4"/>
+<Resource URI="http://nl.dbpedia.org/resource/Anthony_Mann" support="25" types="DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person" surfaceForm="Anthony Mann" offset="476" similarityScore="0.9999999999758984" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple Computer" offset="508" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Corps" support="3" types="" surfaceForm="Apple Corps" offset="826" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="851" similarityScore="0.9999999974737648" percentageOfSecondRank="2.5257855857825504E-9"/>
+</Resources>
+</Annotation>

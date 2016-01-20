@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Amerikaanse beurzen dalen op lustrum ` Zwarte Maandag ' ^ 20-Oct-07 ^ Men zegt dat de geschiedenis zich herhaalt . ^ Vandaag was het 20 jaar geleden dat de United States Dow Jones Industrial Average-markt instortte , op een dag die de geschiedenis is ingegaan als ` Black Monday ' of zwarte maandag . ^ Door de crash daalde de beurs met 508 punten , of bijna 24 % . ^ Op vrijdag werd dat record bijna ingehaald door de Dow Jones toen de beurs sloot op - 366,94 punten , bijna drie procent lager . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Verenigde_Staten" support="94362" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Amerikaanse" offset="0" similarityScore="0.9999907698450781" percentageOfSecondRank="7.070746565782183E-6"/>
+<Resource URI="http://nl.dbpedia.org/resource/Lustrum" support="96" types="" surfaceForm="lustrum" offset="29" similarityScore="0.9999999558874616" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Zwarte_dag" support="24" types="" surfaceForm="Zwarte Maandag" offset="39" similarityScore="0.9999999999929514" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Dow_Jones_Industrial_Average" support="41" types="" surfaceForm="Dow Jones" offset="170" similarityScore="0.9999999992362518" percentageOfSecondRank="7.637257961723535E-10"/>
+<Resource URI="http://nl.dbpedia.org/resource/Dow_Jones_Industrial_Average" support="41" types="" surfaceForm="Dow Jones" offset="419" similarityScore="0.9999999992362518" percentageOfSecondRank="7.637257961723535E-10"/>
+</Resources>
+</Annotation>

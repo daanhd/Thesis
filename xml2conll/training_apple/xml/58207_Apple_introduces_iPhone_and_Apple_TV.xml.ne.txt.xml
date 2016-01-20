@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Apple introduceert iPhone en Apple TV ^ 10-Jan-07 ^ Apple Inc. introduceerde vandaag de langverwachte iPhone tijdens de Macworld Conference in San Francisco . ^ De iPhone is volgens de website van Apple een ``revolutionaire mobiele telefoon ' ' . ^ Het apparaat lijkt te draaien op een mobiele versie van Mac OSX , het besturingssysteem van Apple . ^ Het is ongeveer even groot als een iPod van de vijfde generatie en is voorzien van een 3,5-inch LCD touchscreen waarmee alle functies van de telefoon worden bediend , waaronder het intoetsen van telefoonnummers en het voeren van gesprekken . ^ De iPhone speelt muziek en films af , toont foto ‘ s en kan verbinding maken met een draadloos netwerk . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="0" similarityScore="0.9999999999984084" percentageOfSecondRank="1.6124496654603688E-12"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPhone" support="346" types="DBpedia:Device" surfaceForm="iPhone" offset="19" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_TV" support="19" types="" surfaceForm="Apple TV" offset="29" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple Inc." offset="52" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPhone" support="346" types="DBpedia:Device" surfaceForm="iPhone" offset="102" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Macworld" support="6" types="" surfaceForm="Macworld" offset="120" similarityScore="0.9999964326838118" percentageOfSecondRank="3.5673286047577215E-6"/>
+<Resource URI="http://nl.dbpedia.org/resource/San_Francisco" support="2469" types="" surfaceForm="San Francisco" offset="143" similarityScore="0.9999999999997726" percentageOfSecondRank="1.7474111896568602E-13"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPhone" support="346" types="DBpedia:Device" surfaceForm="iPhone" offset="164" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="197" similarityScore="0.9999999999984084" percentageOfSecondRank="1.6124496654603688E-12"/>
+<Resource URI="http://nl.dbpedia.org/resource/Mobiele_telefoon" support="623" types="" surfaceForm="mobiele telefoon" offset="224" similarityScore="0.9999999995268354" percentageOfSecondRank="4.732128711398981E-10"/>
+<Resource URI="http://nl.dbpedia.org/resource/OS_X" support="878" types="Schema:CreativeWork,DBpedia:Work,DBpedia:Software" surfaceForm="Mac OSX" offset="305" similarityScore="1.0" percentageOfSecondRank="4.935422796500983E-17"/>
+<Resource URI="http://nl.dbpedia.org/resource/Besturingssysteem" support="1289" types="" surfaceForm="besturingssysteem" offset="319" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="341" similarityScore="0.9999999999984084" percentageOfSecondRank="1.6124496654603688E-12"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPod" support="226" types="" surfaceForm="iPod" offset="386" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Aanraakscherm" support="232" types="" surfaceForm="touchscreen" offset="451" similarityScore="0.9999999999940883" percentageOfSecondRank="5.954572036022505E-12"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPhone" support="346" types="DBpedia:Device" surfaceForm="iPhone" offset="598" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Draadloos_netwerk" support="57" types="" surfaceForm="draadloos netwerk" offset="680" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+</Resources>
+</Annotation>

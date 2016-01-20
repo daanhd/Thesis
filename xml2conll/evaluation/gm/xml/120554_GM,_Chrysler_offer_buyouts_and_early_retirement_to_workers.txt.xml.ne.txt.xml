@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="GM , Chrysler bieden werknemers afkoop en vervroegd pensioen aan ^ 03-Feb-09 ^ General Motors ( GM ) en Chrysler zijn begonnen hun werknemers een ontslagregeling aan te bieden . ^ \&quot; De autofabrikanten hebben zwaar te lijden onder de recente economische omstandigheden ; ze hebben de Amerikaanse staat al om hulp gevraagd . \&quot; ^ Er wordt gezegd dat de regeling van GM een bedrag van 20.000 dollar en een tegoed van 25.000 dollar voor een nieuwe auto omvat . ^ Chrysler biedt een tegoed van 25.000 dollar voor een auto en 50.000 met zorgverzekering en 75.000 dollar zonder . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Chrysler" support="599" types="" surfaceForm="Chrysler" offset="5" similarityScore="0.9999980996732214" percentageOfSecondRank="1.9003303618187697E-6"/>
+<Resource URI="http://nl.dbpedia.org/resource/General_Motors" support="640" types="" surfaceForm="General Motors" offset="79" similarityScore="0.9999999999801048" percentageOfSecondRank="1.9950861933909878E-11"/>
+<Resource URI="http://nl.dbpedia.org/resource/Chrysler" support="599" types="" surfaceForm="Chrysler" offset="104" similarityScore="0.9999980996732214" percentageOfSecondRank="1.9003303618187697E-6"/>
+<Resource URI="http://nl.dbpedia.org/resource/Verenigde_Staten" support="94362" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Amerikaanse" offset="284" similarityScore="0.9999887932467982" percentageOfSecondRank="9.325948019155143E-6"/>
+<Resource URI="http://nl.dbpedia.org/resource/Chrysler" support="599" types="" surfaceForm="Chrysler" offset="460" similarityScore="0.9999980996732214" percentageOfSecondRank="1.9003303618187697E-6"/>
+<Resource URI="http://nl.dbpedia.org/resource/Zorgverzekering_(Nederland)" support="127" types="" surfaceForm="zorgverzekering" offset="532" similarityScore="0.6481089456443944" percentageOfSecondRank="0.5318913045875332"/>
+</Resources>
+</Annotation>

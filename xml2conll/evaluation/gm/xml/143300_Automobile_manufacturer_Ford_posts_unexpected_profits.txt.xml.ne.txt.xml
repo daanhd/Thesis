@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Autofabrikant Ford rapporteert onverwachte winst ^ 03-Nov-09 ^ Het Amerikaanse autobedrijf Ford meldt dat het in het derde kwartaal een nettowinst van US $ 997 miljoen heeft gemaakt en voorspelt een ``stabiele winst ' ' rond 2011 . ^ Dit verraste veel analisten , die hadden voorspeld dat het autobedrijf verlies zou lijden . ^ De winst komt overeen met 26 dollarcent per aandeel , een groot verschil met de 12 dollarcent verlies per aandeel die de meeste economische analisten hadden voorspeld . ^ ``De resultaten voor het derde kwartaal tonen duidelijk aan dat Ford ondanks de langdurige recessie enorme vooruitgang boekt , ' ' zei Alan Mulally , de chief executive officer van het bedrijf . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Ford_Motor_Company" support="1570" types="" surfaceForm="Ford" offset="14" similarityScore="0.9999999998291287" percentageOfSecondRank="1.0185763332370712E-10"/>
+<Resource URI="http://nl.dbpedia.org/resource/Verenigde_Staten" support="94362" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Amerikaanse" offset="67" similarityScore="0.9999764372497393" percentageOfSecondRank="2.270572827758538E-5"/>
+<Resource URI="http://nl.dbpedia.org/resource/Ford_Motor_Company" support="1570" types="" surfaceForm="Ford" offset="91" similarityScore="0.9999999998291287" percentageOfSecondRank="1.0185763332370712E-10"/>
+<Resource URI="http://nl.dbpedia.org/resource/Amerikaanse_dollar" support="1612" types="DBpedia:Currency" surfaceForm="US $" offset="151" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Ford_Motor_Company" support="1570" types="" surfaceForm="Ford" offset="563" similarityScore="0.9999999998291287" percentageOfSecondRank="1.0185763332370712E-10"/>
+<Resource URI="http://nl.dbpedia.org/resource/Recessie" support="169" types="" surfaceForm="recessie" offset="590" similarityScore="0.9999999749813927" percentageOfSecondRank="2.5018643837720587E-8"/>
+<Resource URI="http://nl.dbpedia.org/resource/Alan_Mulally" support="3" types="" surfaceForm="Alan Mulally" offset="634" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Executive" support="1" types="" surfaceForm="executive" offset="658" similarityScore="0.500880687638321" percentageOfSecondRank="0.0"/>
+</Resources>
+</Annotation>

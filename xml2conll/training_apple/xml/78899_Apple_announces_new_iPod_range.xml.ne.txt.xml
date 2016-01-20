@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Apple kondigt nieuwe iPods aan ^ 05-Sep-07 ^ Apple CEO Steve Jobs Credit : mylerdude ] ] Apple brengt verscheidene nieuwe ontwerpen van de populaire iPod-collectie uit . ^ Naast de iPod Classic , Nano en Shuffle is nu de nieuwe iPod touch aangekondigd , een mediaspeler met het touchscreen van de iPhone . ^ Het nieuwe ontwerp van de iPod Classic heeft meer geheugencapaciteit , namelijk maximaal 160 GB of 40.000 muzieknummers , en een nieuw metalen vormgeving . ^ De iPod nano is nu kleiner en vierkanter en kan voor het eerst ook videobeelden afspelen . ^ Het model van 4 GB is met $ 149 , - / # 99 , - goedkoper dan zijn voorganger maar het model van 8 GB is verkrijgbaar in vijf kleuren voor $ 199 , - / # 129 , - . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="0" similarityScore="1.0" percentageOfSecondRank="7.049560009296702E-16"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="45" similarityScore="1.0" percentageOfSecondRank="7.049560009296702E-16"/>
+<Resource URI="http://nl.dbpedia.org/resource/Bestuursvoorzitter" support="671" types="" surfaceForm="CEO" offset="51" similarityScore="0.9999999999979536" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Steve_Jobs" support="107" types="DBpedia:Agent,Schema:Person,Http://xmlns.com/foaf/0.1/Person,DBpedia:Person" surfaceForm="Steve Jobs" offset="55" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Apple_Inc." support="1306" types="" surfaceForm="Apple" offset="89" similarityScore="1.0" percentageOfSecondRank="7.049560009296702E-16"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPod_classic" support="2" types="" surfaceForm="iPod Classic" offset="181" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPod_touch" support="90" types="" surfaceForm="iPod touch" offset="228" similarityScore="0.9512646686514951" percentageOfSecondRank="0.05123214700867946"/>
+<Resource URI="http://nl.dbpedia.org/resource/Mediaspeler" support="65" types="" surfaceForm="mediaspeler" offset="258" similarityScore="0.9967441213180996" percentageOfSecondRank="0.003266378392463395"/>
+<Resource URI="http://nl.dbpedia.org/resource/Aanraakscherm" support="232" types="" surfaceForm="touchscreen" offset="278" similarityScore="0.9999999999990905" percentageOfSecondRank="8.744767387810356E-13"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPhone" support="346" types="DBpedia:Device" surfaceForm="iPhone" offset="297" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPod_classic" support="2" types="" surfaceForm="iPod Classic" offset="334" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Gigabyte" support="218" types="" surfaceForm="GB" offset="401" similarityScore="0.9999999998517524" percentageOfSecondRank="1.481710479857283E-10"/>
+<Resource URI="http://nl.dbpedia.org/resource/IPod_nano" support="26" types="" surfaceForm="iPod nano" offset="469" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Gigabyte" support="218" types="" surfaceForm="GB" offset="575" similarityScore="0.9999999998517524" percentageOfSecondRank="1.481710479857283E-10"/>
+<Resource URI="http://nl.dbpedia.org/resource/Gigabyte" support="218" types="" surfaceForm="GB" offset="657" similarityScore="0.9999999998517524" percentageOfSecondRank="1.481710479857283E-10"/>
+</Resources>
+</Annotation>

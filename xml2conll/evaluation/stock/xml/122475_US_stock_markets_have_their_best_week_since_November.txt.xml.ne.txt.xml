@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Amerikaanse beurzen beleven beste week sinds november ^ 13-Mar-09 ^ Wall Street heeft zijn beste week gehad sinds november 2008 na een vierdaagse opleving waarin de indexen op weekbasis meer zijn gestegen dan in de afgelopen vijf maanden . ^ De grote indicatoren in de NYSE zetten een stijging van zo' n 10 procent neer . ^ Dit was voornamelijk te danken aan het feit dat de bankaandelen stegen en zo zorgen over de economie verlichtten . ^ De Dow Jones Industrial Average ( INDU ) sloot op 7223,98 , en stijging van 54 punten ten opzichte van 12 maart 2009 . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Verenigde_Staten" support="94362" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Amerikaanse" offset="0" similarityScore="0.9999927967658324" percentageOfSecondRank="6.305566875062475E-6"/>
+<Resource URI="http://nl.dbpedia.org/resource/Wall_Street" support="184" types="" surfaceForm="Wall Street" offset="68" similarityScore="0.7956561610672611" percentageOfSecondRank="0.25682430208011264"/>
+<Resource URI="http://nl.dbpedia.org/resource/Dow_Jones_Industrial_Average" support="41" types="" surfaceForm="Dow Jones Industrial Average" offset="444" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/12_maart" support="919" types="" surfaceForm="12 maart" offset="544" similarityScore="0.9999999999997726" percentageOfSecondRank="0.0"/>
+</Resources>
+</Annotation>

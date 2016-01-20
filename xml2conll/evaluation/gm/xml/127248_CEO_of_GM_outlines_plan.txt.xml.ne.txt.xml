@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="CEO van GM presenteert plan voor ``Nieuw GM ' ' na faillissement ^ 04-Jun-09 ^ Tijdens een persconferentie in New York op 1 juni om 16.15 uur presenteerde Fritz Henderson , Chief Executive Officer van General Motors , dat eerder vandaag een faillissement en Chapter 11-bescherming tegen crediteuren aanvroeg , een plan voor wat hij een ``Nieuw GM ' ' noemde . ^ Hij sprak de pers toe onder \&quot; safe harbor \&quot; -bepalingen in de Amerikaanse wet en beschreef de gebeurtenissen van vandaag als ``tekenend moment ' ' in de geschiedenis van General Motors . ^ Hij sprak het publiek toe en zei : ``Het GM dat u in de steek heeft gelaten , is nu geschiedenis ' ' en beschreef een ``Nieuw GM ' ' dat in zijn verwachting uit het faillissementsproces zou verrijzen . ^ Henderson verklaarde dat hij verwachtte dat het faillissementsproces zo ' n 60 tot 90 dagen zal duren . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Bestuursvoorzitter" support="671" types="" surfaceForm="CEO" offset="0" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/New_York_City" support="14997" types="" surfaceForm="New York" offset="110" similarityScore="0.9991176507423394" percentageOfSecondRank="8.750017947441968E-4"/>
+<Resource URI="http://nl.dbpedia.org/resource/1_juni" support="1414" types="" surfaceForm="1 juni" offset="122" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Bestuursvoorzitter" support="671" types="" surfaceForm="Chief Executive Officer" offset="173" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/General_Motors" support="640" types="" surfaceForm="General Motors" offset="201" similarityScore="0.9999999999946567" percentageOfSecondRank="5.3004944415244796E-12"/>
+<Resource URI="http://nl.dbpedia.org/resource/Natuurbescherming" support="335" types="" surfaceForm="11-bescherming" offset="268" similarityScore="0.9994687747792433" percentageOfSecondRank="5.315075433885239E-4"/>
+<Resource URI="http://nl.dbpedia.org/resource/Safe_Harbor" support="3" types="" surfaceForm="safe harbor" offset="393" similarityScore="0.9999999999974989" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Verenigde_Staten" support="94362" types="Schema:Place,DBpedia:Place,DBpedia:PopulatedPlace,Schema:Country,DBpedia:Country" surfaceForm="Amerikaanse" offset="426" similarityScore="0.9999952323593072" percentageOfSecondRank="4.746706636654293E-6"/>
+<Resource URI="http://nl.dbpedia.org/resource/General_Motors" support="640" types="" surfaceForm="General Motors" offset="534" similarityScore="0.9999999999946567" percentageOfSecondRank="5.3004944415244796E-12"/>
+</Resources>
+</Annotation>

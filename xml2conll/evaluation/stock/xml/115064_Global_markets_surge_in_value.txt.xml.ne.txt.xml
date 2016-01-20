@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Annotation text="Markten stijgen wereldwijd ^ 13-Oct-08 ^ De markten zijn wereldwijd gestegen na inspanningen van overheden om de gevolgen van de financiële crisis , waardoor aandelenprijzen recentelijk enorm zijn gedaald , af te zwakken . ^ Op zondag kwamen de vijftien landen in de Eurogroep ( de landen die de euro als officiële valuta hebben ) een gezamenlijk crisisplan overeen steun aan financiële instellingen en zekerheid op leningen tussen banken te verlenen . ^ De vergadering van de Eurogroep was de laatste afgelopen weekend . ^ De G7 kwamen in Washington bijeen op hetzelfde moment dat het Internationaal Monetair Fonds en de Wereldbank hun herfstvergadering hielden . " confidence="0.45" support="0" types="" sparql="" policy="whitelist">
+<Resources>
+<Resource URI="http://nl.dbpedia.org/resource/Eurogroep" support="20" types="" surfaceForm="Eurogroep" offset="267" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Valuta" support="645" types="" surfaceForm="valuta" offset="315" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Eurogroep" support="20" types="" surfaceForm="Eurogroep" offset="477" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Groep_van_Acht" support="142" types="" surfaceForm="G7" offset="527" similarityScore="0.9968161810739141" percentageOfSecondRank="0.003193988005444908"/>
+<Resource URI="http://nl.dbpedia.org/resource/Washington_D.C." support="2535" types="" surfaceForm="Washington" offset="540" similarityScore="0.9999959341001508" percentageOfSecondRank="2.246227711399629E-6"/>
+<Resource URI="http://nl.dbpedia.org/resource/Internationaal_Monetair_Fonds" support="342" types="" surfaceForm="Internationaal Monetair Fonds" offset="586" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+<Resource URI="http://nl.dbpedia.org/resource/Wereldbank" support="300" types="" surfaceForm="Wereldbank" offset="622" similarityScore="1.0" percentageOfSecondRank="0.0"/>
+</Resources>
+</Annotation>
